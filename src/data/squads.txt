@@ -1,0 +1,3757 @@
+########## EUROPE ##########
+
+=== Agro Pontino (Overall: 63) | Region: Europe ===
+  LM    Salvatore Bianchi             ABL:61
+  RWB   Matteo Fontana                ABL:59
+  CF    Emanuele Conti                ABL:58
+  RM    Matteo Ferrari                ABL:58
+  RW    Riccardo Russo                ABL:58
+  RW    Andrea De Luca                ABL:59
+  CM    Roberto Conti                 ABL:57
+  LWB   Paolo Conti                   ABL:58
+  CB    Simone Russo                  ABL:57
+  CDM   Salvatore Marino              ABL:57
+  GK    Roberto De Luca               ABL:59
+  RW    Stefano Ferrari               ABL:58
+  CB    Luca Gallo                    ABL:61
+  CB    Alessandro Santoro            ABL:60
+  CB    Alessandro Mancini            ABL:61
+  CDM   Roberto Romano                ABL:59
+  CDM   Giovanni Marino               ABL:63
+  RWB   Salvatore Greco               ABL:61
+  GK    Vittorio De Luca              ABL:60
+  RWB   Davide Romano                 ABL:63
+  LW    Fabio Russo                   ABL:55
+  CDM   Andrea Romano                 ABL:57
+
+=== Canton Ticino (Overall: 63) | Region: Europe ===
+  LB    Fabio Rossini                 ABL:62
+  ST    Gianni Tettamanti             ABL:59
+  GK    Gianni Pellanda               ABL:61
+  LWB   Fabio Pellanda                ABL:58
+  LWB   Mauro Rusconi                 ABL:61
+  CAM   Mauro Rossini                 ABL:60
+  CB    Livio Pellanda                ABL:62
+  GK    Renato Tettamanti             ABL:58
+  CF    Renato Rusconi                ABL:55
+  ST    Fabio Bianchi                 ABL:56
+  RW    Renato Bianchi                ABL:60
+  RW    Renato Pellanda               ABL:58
+  CAM   Silvio Rossini                ABL:62
+  LW    Livio Tettamanti              ABL:62
+  CDM   Aldo Cattaneo                 ABL:58
+  RB    Mauro Cattaneo                ABL:60
+  LW    Livio Cattaneo                ABL:62
+  CAM   Aldo Rossini                  ABL:55
+  CDM   Mauro Bianchi                 ABL:55
+  GK    Livio Rossini                 ABL:60
+  LM    Aldo Bianchi                  ABL:58
+  CM    Fabio Tettamanti              ABL:63
+  RB    Silvio Cattaneo               ABL:58
+  RM    Mauro Pellanda                ABL:55
+  LWB   Fabio Cattaneo                ABL:62
+
+=== Heligoland (Overall: 62) | Region: Europe ===
+  GK    Maximilian Wagner             ABL:59
+  CM    Sebastian Fischer             ABL:56
+  LW    Lukas Weber                   ABL:56
+  CDM   Lukas Meyer                   ABL:58
+  CM    Tobias Fischer                ABL:57
+  CAM   Florian Müller                ABL:58
+  LM    Florian Fischer               ABL:57
+  ST    Sebastian Becker              ABL:59
+  CB    Tobias Becker                 ABL:55
+  LW    Julian Becker                 ABL:59
+  LB    Julian Müller                 ABL:57
+  RW    Lukas Wagner                  ABL:57
+  RB    Tobias Schneider              ABL:60
+  RM    Florian Meyer                 ABL:62
+  LB    Florian Becker                ABL:55
+  CF    Lukas Fischer                 ABL:57
+  GK    Julian Fischer                ABL:57
+  LW    Julian Weber                  ABL:61
+  RB    Tobias Müller                 ABL:56
+  CM    Maximilian Meyer              ABL:55
+  RB    Sebastian Schneider           ABL:55
+  LW    Sebastian Meyer               ABL:57
+  LW    Maximilian Becker             ABL:57
+  CB    Maximilian Weber              ABL:55
+  RB    Maximilian Fischer            ABL:57
+
+=== Frøya (Overall: 62) | Region: Europe ===
+  CF    Erik Eriksson                 ABL:58
+  ST    Sven Holm                     ABL:56
+  CB    Rasmus Larsen                 ABL:60
+  GK    Rasmus Nilsson                ABL:59
+  CB    Gustav Berg                   ABL:61
+  CM    Frode Berg                    ABL:57
+  RB    Björn Holm                    ABL:61
+  CDM   Rasmus Johansson              ABL:59
+  LW    Magnus Eriksson               ABL:55
+  LW    Nils Berg                     ABL:58
+  CDM   Magnus Hansen                 ABL:60
+  LB    Henrik Lindqvist              ABL:62
+  ST    Rasmus Karlsen                ABL:62
+  CAM   Frode Johansson               ABL:56
+  ST    Nils Eriksson                 ABL:60
+  LM    Anders Karlsen                ABL:59
+  CAM   Björn Karlsen                 ABL:57
+  CB    Erik Andersen                 ABL:58
+  GK    Henrik Hansen                 ABL:56
+  CM    Henrik Holm                   ABL:58
+  ST    Frode Holm                    ABL:62
+  LB    Magnus Karlsen                ABL:57
+
+=== Shetland (Overall: 60) | Region: Europe ===
+  CB    Coinneach MacDonald           ABL:60
+  LM    Iain MacLeod                  ABL:58
+  RM    Ruairidh Sinclair             ABL:59
+  CB    Ruairidh Fraser               ABL:55
+  RM    Iain Mackenzie                ABL:58
+  GK    Ruairidh Mackenzie            ABL:59
+  CDM   Coinneach MacLeod             ABL:59
+  CF    Alasdair Sinclair             ABL:57
+  RB    Aonghas Fraser                ABL:58
+  LM    Domhnall Sutherland           ABL:60
+  RWB   Domhnall Mackenzie            ABL:59
+  LWB   Iain Fraser                   ABL:56
+  CM    Fionnlagh Fraser              ABL:58
+  GK    Alasdair Fraser               ABL:57
+  CF    Coinneach Sutherland          ABL:58
+  RW    Iain Gunn                     ABL:59
+  CF    Domhnall Gunn                 ABL:60
+  ST    Alasdair MacLeod              ABL:60
+  CF    Ruairidh MacDonald            ABL:58
+  CF    Fionnlagh MacDonald           ABL:58
+  LWB   Fionnlagh Sinclair            ABL:58
+  CB    Fionnlagh Mackenzie           ABL:58
+
+=== Western Isles (Overall: 65) | Region: Europe ===
+  CB    Aonghas Sutherland            ABL:64
+  CM    Aonghas MacLeod               ABL:64
+  RWB   Fionnlagh Gunn                ABL:61
+  RM    Coinneach Sinclair            ABL:56
+  RWB   Domhnall Sutherland           ABL:60
+  RW    Alasdair Mackenzie            ABL:61
+  CM    Aonghas Fraser                ABL:56
+  GK    Ruairidh Sinclair             ABL:65
+  CM    Coinneach MacDonald           ABL:61
+  ST    Iain Sutherland               ABL:63
+  CB    Domhnall Mackenzie            ABL:63
+  CDM   Ruairidh Fraser               ABL:64
+  RW    Fionnlagh Sinclair            ABL:58
+  CB    Fionnlagh Fraser              ABL:58
+  CDM   Domhnall Gunn                 ABL:65
+  GK    Alasdair Fraser               ABL:60
+  LW    Iain Fraser                   ABL:58
+  RWB   Fionnlagh Mackenzie           ABL:59
+  CF    Alasdair Gunn                 ABL:58
+  LWB   Alasdair MacDonald            ABL:61
+  RW    Ruairidh Gunn                 ABL:58
+  CF    Coinneach Fraser              ABL:65
+  LB    Ruairidh Mackenzie            ABL:55
+  CDM   Alasdair Sinclair             ABL:58
+
+=== Ynys Môn (Overall: 63) | Region: Europe ===
+  GK    Emrys Morgan                  ABL:62
+  CAM   Rhys Morgan                   ABL:55
+  LM    Ieuan Williams                ABL:62
+  LW    Owain Hughes                  ABL:60
+  LWB   Gareth Jones                  ABL:59
+  LW    Llŷr Hughes                   ABL:56
+  LM    Llŷr Jones                    ABL:61
+  RM    Owain Jones                   ABL:55
+  CAM   Gareth Evans                  ABL:59
+  ST    Rhys Evans                    ABL:56
+  GK    Ieuan Morgan                  ABL:61
+  LWB   Ieuan Pritchard               ABL:58
+  GK    Llŷr Pritchard                ABL:61
+  LB    Dafydd Morgan                 ABL:61
+  CAM   Dafydd Pritchard              ABL:55
+  RW    Ieuan Griffiths               ABL:56
+  RW    Llŷr Evans                    ABL:58
+  RWB   Dafydd Griffiths              ABL:56
+  LB    Gareth Pritchard              ABL:56
+  CAM   Emrys Pritchard               ABL:62
+  RW    Dafydd Jones                  ABL:58
+  LWB   Rhys Griffiths                ABL:58
+  CAM   Llŷr Griffiths                ABL:58
+  RW    Ieuan Evans                   ABL:57
+  RB    Llŷr Williams                 ABL:59
+
+=== Öland (Overall: 63) | Region: Europe ===
+  GK    Gustav Andersen               ABL:62
+  RB    Anders Larsen                 ABL:59
+  RB    Sven Nilsson                  ABL:61
+  ST    Rasmus Eriksson               ABL:62
+  RW    Magnus Andersen               ABL:58
+  LWB   Gustav Larsen                 ABL:62
+  RWB   Rasmus Lindqvist              ABL:55
+  RM    Björn Berg                    ABL:63
+  CF    Lars Berg                     ABL:62
+  GK    Frode Lindqvist               ABL:56
+  CDM   Erik Solberg                  ABL:58
+  CDM   Frode Johansson               ABL:59
+  LW    Gustav Holm                   ABL:56
+  LWB   Björn Nilsson                 ABL:62
+  RW    Anders Solberg                ABL:57
+  CDM   Henrik Berg                   ABL:63
+  LB    Frode Berg                    ABL:61
+  RM    Henrik Lindqvist              ABL:58
+  LM    Henrik Eriksson               ABL:57
+  CDM   Magnus Karlsen                ABL:63
+  LB    Anders Berg                   ABL:61
+  RB    Sven Eriksson                 ABL:59
+  CAM   Erik Berg                     ABL:59
+  LW    Oskar Hansen                  ABL:62
+  CAM   Lars Lindqvist                ABL:63
+
+=== Gotland (Overall: 62) | Region: Europe ===
+  CF    Björn Solberg                 ABL:59
+  CM    Björn Nilsson                 ABL:61
+  RWB   Anders Solberg                ABL:56
+  RW    Henrik Johansson              ABL:59
+  CF    Erik Andersen                 ABL:60
+  LW    Erik Berg                     ABL:60
+  LM    Sven Holm                     ABL:57
+  LM    Björn Eriksson                ABL:61
+  ST    Oskar Solberg                 ABL:57
+  GK    Lars Johansson                ABL:56
+  LM    Oskar Holm                    ABL:58
+  CB    Henrik Hansen                 ABL:57
+  CM    Björn Lindqvist               ABL:59
+  LWB   Henrik Berg                   ABL:55
+  LB    Rasmus Eriksson               ABL:57
+  CB    Anders Lindqvist              ABL:60
+  LM    Oskar Berg                    ABL:61
+  LWB   Frode Berg                    ABL:62
+  LW    Nils Karlsen                  ABL:61
+  CDM   Henrik Nilsson                ABL:58
+  RB    Magnus Hansen                 ABL:60
+  GK    Erik Solberg                  ABL:61
+  CAM   Nils Andersen                 ABL:55
+  LM    Oskar Lindqvist               ABL:59
+  RB    Björn Hansen                  ABL:60
+
+=== Saare County (Overall: 67) | Region: Europe ===
+  CF    Toivo Sepp                    ABL:63
+  CDM   Toivo Kask                    ABL:60
+  GK    Priit Rebane                  ABL:65
+  GK    Rein Kukk                     ABL:61
+  LB    Margus Rebane                 ABL:60
+  RWB   Toivo Rebane                  ABL:58
+  CAM   Meelis Tamm                   ABL:64
+  CDM   Tanel Sepp                    ABL:64
+  LM    Kalev Rebane                  ABL:56
+  GK    Priit Kuusk                   ABL:62
+  ST    Priit Sepp                    ABL:65
+  RW    Kalev Tamm                    ABL:55
+  RWB   Rein Kask                     ABL:56
+  CDM   Toivo Saar                    ABL:63
+  RM    Kalev Kask                    ABL:62
+  RW    Rein Rebane                   ABL:66
+  RWB   Priit Kukk                    ABL:61
+  CB    Tanel Rebane                  ABL:66
+  ST    Priit Tamm                    ABL:62
+  CM    Tanel Kask                    ABL:59
+  CAM   Rein Saar                     ABL:62
+  LW    Meelis Saar                   ABL:60
+  RWB   Toivo Kuusk                   ABL:62
+
+=== Isle of Wight (Overall: 65) | Region: Europe ===
+  ST    Ben Hall                      ABL:56
+  CB    Charlie Walker                ABL:58
+  GK    Sam Smith                     ABL:65
+  RW    Ben Clarke                    ABL:62
+  CM    James Smith                   ABL:62
+  CM    George Turner                 ABL:65
+  RM    Harry Hughes                  ABL:62
+  CB    Harry Taylor                  ABL:60
+  RW    Sam Brown                     ABL:56
+  RM    Jack Clarke                   ABL:64
+  ST    Sam Walker                    ABL:60
+  GK    George Hall                   ABL:63
+  LW    Thomas Hughes                 ABL:63
+  ST    Sam Turner                    ABL:56
+  CDM   Harry Walker                  ABL:58
+  LWB   George Hughes                 ABL:58
+  CM    George Baker                  ABL:62
+  RW    Harry Baker                   ABL:61
+  LB    William Clarke                ABL:60
+  GK    Jack Hughes                   ABL:56
+  CB    Harry Turner                  ABL:56
+  CB    William Brown                 ABL:63
+
+=== Menorca (Overall: 66) | Region: Europe ===
+  RWB   Pau Ferran                    ABL:66
+  RW    Pol Puig                      ABL:56
+  ST    Pol Font                      ABL:58
+  GK    Oriol Vidal                   ABL:62
+  RW    Jordi Ferran                  ABL:60
+  RB    Jordi Roig                    ABL:60
+  RM    Bernat Font                   ABL:56
+  CF    Marc Font                     ABL:55
+  CAM   Jordi Vidal                   ABL:65
+  GK    Bernat Vidal                  ABL:61
+  RM    Bernat Puig                   ABL:60
+  LB    Oriol Puig                    ABL:59
+  LW    Pol Roig                      ABL:64
+  RM    Oriol Font                    ABL:65
+  LB    Jordi Puig                    ABL:58
+  GK    Pau Puig                      ABL:58
+  CDM   Marc Bosch                    ABL:59
+  RWB   Pau Vidal                     ABL:66
+  CB    Oriol Ferran                  ABL:57
+  RB    Pol Ferran                    ABL:63
+  CAM   Bernat Roig                   ABL:60
+  RW    Jordi Font                    ABL:61
+
+=== Rijeka (Overall: 67) | Region: Europe ===
+  CAM   Luka Kovač                    ABL:62
+  GK    Nikola Barišić                ABL:62
+  CB    Petar Novak                   ABL:57
+  LM    Filip Kovačić                 ABL:62
+  LB    Filip Jurić                   ABL:67
+  LM    Josip Barišić                 ABL:55
+  LWB   Petar Vuković                 ABL:56
+  CB    Josip Kovač                   ABL:62
+  CDM   Ivan Horvat                   ABL:60
+  GK    Josip Kovačić                 ABL:65
+  LM    Marko Barišić                 ABL:64
+  ST    Karlo Perić                   ABL:62
+  RW    Nikola Vuković                ABL:67
+  CDM   Ivan Kovač                    ABL:67
+  ST    Nikola Marić                  ABL:60
+  RWB   Nikola Kovač                  ABL:63
+  CB    Luka Horvat                   ABL:62
+  RM    Marko Novak                   ABL:66
+  CF    Marko Vuković                 ABL:65
+  LB    Ante Kovač                    ABL:62
+  LW    Karlo Vuković                 ABL:64
+  CM    Luka Novak                    ABL:60
+  GK    Josip Perić                   ABL:61
+  RB    Petar Barišić                 ABL:55
+  RB    Petar Kovačić                 ABL:60
+
+=== Saugeais (Overall: 62) | Region: Europe ===
+  RM    Nicolas Lefèvre               ABL:57
+  CB    Julien Girard                 ABL:57
+  ST    Jean Bernard                  ABL:57
+  CAM   Nicolas Girard                ABL:55
+  CM    Pierre Lefèvre                ABL:58
+  LWB   Pierre Dubois                 ABL:59
+  GK    Baptiste Rousseau             ABL:62
+  LB    Jean Dubois                   ABL:58
+  LW    Antoine Fabre                 ABL:62
+  CB    Baptiste Bernard              ABL:60
+  LM    Nicolas Dubois                ABL:62
+  LB    Pierre Fabre                  ABL:59
+  CF    Baptiste Girard               ABL:61
+  RWB   Jean Fabre                    ABL:58
+  RWB   Baptiste Dubois               ABL:57
+  GK    Baptiste Lefèvre              ABL:55
+  CM    Julien Moreau                 ABL:56
+  ST    Antoine Moreau                ABL:57
+  CAM   Antoine Girard                ABL:57
+  GK    Louis Bernard                 ABL:62
+  RM    Pierre Moreau                 ABL:61
+  RW    Julien Lefèvre                ABL:58
+
+=== Seborga (Overall: 62) | Region: Europe ===
+  CB    Davide Santoro                ABL:61
+  RWB   Francesco Russo               ABL:60
+  CAM   Matteo Barbieri               ABL:55
+  LM    Antonio Mancini               ABL:55
+  LM    Antonio Conti                 ABL:59
+  RM    Marco Conti                   ABL:56
+  RWB   Paolo Marino                  ABL:56
+  ST    Vittorio Gallo                ABL:57
+  CDM   Luca Conti                    ABL:60
+  GK    Francesco Giordano            ABL:62
+  CB    Francesco Romano              ABL:56
+  RW    Roberto Ferrari               ABL:59
+  LW    Alessandro Ferrari            ABL:58
+  LW    Luca Gallo                    ABL:59
+  LW    Enrico De Luca                ABL:62
+  CB    Simone Ferrari                ABL:58
+  LM    Riccardo Conti                ABL:55
+  CM    Stefano Greco                 ABL:56
+  RW    Paolo Costa                   ABL:61
+  GK    Roberto De Luca               ABL:60
+  LB    Francesco Mancini             ABL:62
+  CF    Paolo Barbieri                ABL:59
+  LB    Matteo Costa                  ABL:56
+  CB    Giuseppe Rinaldi              ABL:57
+  LW    Salvatore Bruno               ABL:60
+
+=== Sealand (Overall: 63) | Region: Europe ===
+  LM    Nigel Roy                     ABL:63
+  CB    Sean Whitmore                 ABL:60
+  LW    Sean Roy                      ABL:56
+  CAM   Roy Roy                       ABL:62
+  RB    Nigel Whitmore                ABL:63
+  LW    Roy Barrington                ABL:59
+  CAM   Ian Roy                       ABL:59
+  LM    Roy Whitmore                  ABL:57
+  RW    Ian Bates                     ABL:60
+  RWB   Sean Bates                    ABL:63
+  LM    Nigel Barrington              ABL:59
+  LWB   Michael Roy                   ABL:60
+  CAM   Sean Ashworth                 ABL:60
+  CDM   Ian Ashworth                  ABL:57
+  LB    Nigel Bates                   ABL:56
+  LB    Ian Whitmore                  ABL:56
+  ST    Michael Barrington            ABL:56
+  GK    Michael Ashworth              ABL:57
+  RM    Michael Whitmore              ABL:63
+  CF    Roy Bates                     ABL:63
+  RB    Nigel Ashworth                ABL:56
+  GK    Sean Barrington               ABL:61
+
+=== Elba (Overall: 68) | Region: Europe ===
+  RWB   Stefano Bianchi               ABL:62
+  RW    Marco Bianchi                 ABL:61
+  RWB   Giuseppe Ferrari              ABL:63
+  GK    Salvatore Rossi               ABL:68
+  LM    Matteo Rinaldi                ABL:64
+  RWB   Riccardo Barbieri             ABL:63
+  LM    Alessandro Giordano           ABL:60
+  CM    Paolo Ferrari                 ABL:68
+  CF    Davide Giordano               ABL:60
+  RM    Salvatore Rinaldi             ABL:64
+  LWB   Fabio Conti                   ABL:66
+  CAM   Roberto Bianchi               ABL:56
+  LWB   Davide Rossi                  ABL:60
+  LW    Paolo Bruno                   ABL:63
+  CDM   Enrico Conti                  ABL:66
+  RW    Andrea Ferrari                ABL:57
+  GK    Fabio Romano                  ABL:68
+  RB    Giuseppe Bianchi              ABL:59
+  CF    Emanuele Ricci                ABL:58
+  CB    Andrea De Luca                ABL:58
+  CM    Roberto Ricci                 ABL:66
+  RM    Vittorio Bianchi              ABL:67
+  GK    Roberto Giordano              ABL:65
+
+=== Isle of Man (Overall: 74) | Region: Europe ===
+  GK    Coinneach MacLeod             ABL:66
+  CM    Domhnall Fraser               ABL:73
+  LWB   Domhnall Sutherland           ABL:68
+  RB    Coinneach Sutherland          ABL:72
+  GK    Fionnlagh Mackenzie           ABL:68
+  RWB   Aonghas MacLeod               ABL:71
+  RB    Alasdair MacLeod              ABL:67
+  RW    Iain MacLeod                  ABL:56
+  CF    Iain Sinclair                 ABL:60
+  CF    Fionnlagh Sutherland          ABL:63
+  CB    Iain Mackenzie                ABL:56
+  RM    Coinneach Mackenzie           ABL:64
+  RM    Domhnall MacLeod              ABL:66
+  CF    Aonghas Fraser                ABL:58
+  CM    Domhnall Mackenzie            ABL:72
+  RM    Aonghas MacDonald             ABL:72
+  ST    Ruairidh MacDonald            ABL:71
+  ST    Aonghas Mackenzie             ABL:64
+  CDM   Alasdair Fraser               ABL:67
+  ST    Ruairidh Mackenzie            ABL:65
+  LWB   Alasdair Sutherland           ABL:63
+  LM    Iain Gunn                     ABL:69
+  CM    Domhnall Gunn                 ABL:74
+
+=== Lazistan (Overall: 72) | Region: Europe ===
+  LM    Aybek Yusupov                 ABL:62
+  GK    Timur Rashidov                ABL:65
+  CB    Bekzat Yusupov                ABL:64
+  CB    Timur Ismailov                ABL:71
+  GK    Erlan Ismailov                ABL:55
+  ST    Aybek Rashidov                ABL:66
+  RW    Erlan Tashkentov              ABL:62
+  RB    Bekzat Nazarov                ABL:58
+  CAM   Erlan Yusupov                 ABL:72
+  LM    Yerbol Yusupov                ABL:55
+  RW    Nurlan Yusupov                ABL:71
+  RWB   Nurlan Nazarov                ABL:70
+  CB    Yerbol Tashkentov             ABL:65
+  ST    Nurlan Karimov                ABL:58
+  CDM   Yerbol Karimov                ABL:61
+  RM    Yerbol Rashidov               ABL:61
+  RM    Yerbol Nazarov                ABL:58
+  LW    Erlan Rashidov                ABL:57
+  CDM   Timur Karimov                 ABL:69
+  ST    Aybek Karimov                 ABL:57
+  GK    Aybek Tashkentov              ABL:63
+  CB    Nurlan Tashkentov             ABL:63
+  CF    Erlan Nazarov                 ABL:69
+
+=== Chameria (Overall: 74) | Region: Europe ===
+  GK    Youssef Bouazizi              ABL:66
+  CDM   Ahmed Zaidi                   ABL:71
+  CF    Ahmed Bouazizi                ABL:60
+  RWB   Ahmed Cherkaoui               ABL:63
+  CDM   Ahmed El Amrani               ABL:60
+  CB    Hamza Cherkaoui               ABL:56
+  LW    Omar Zaidi                    ABL:72
+  RB    Mohammed Haddad               ABL:57
+  RWB   Youssef El Amrani             ABL:61
+  GK    Karim Haddad                  ABL:66
+  CF    Ahmed Slaoui                  ABL:62
+  CAM   Omar El Amrani                ABL:61
+  RM    Youssef Zaidi                 ABL:69
+  LW    Youssef Cherkaoui             ABL:64
+  CDM   Omar Haddad                   ABL:65
+  ST    Karim Bouazizi                ABL:55
+  ST    Hamza Slaoui                  ABL:68
+  LWB   Youssef Haddad                ABL:59
+  CF    Karim Zaidi                   ABL:66
+  CDM   Omar Bouazizi                 ABL:63
+  CB    Mohammed Slaoui               ABL:57
+  RWB   Mohammed Cherkaoui            ABL:55
+  ST    Omar Cherkaoui                ABL:67
+  LWB   Hamza Bouazizi                ABL:66
+  RM    Omar Slaoui                   ABL:64
+
+=== Romani people (Overall: 70) | Region: Europe ===
+  LB    Emil Zăvoianu                 ABL:60
+  RM    Mirko Iordache                ABL:66
+  RB    Emil Costea                   ABL:63
+  RW    Mirko Lăcătuș                 ABL:67
+  LWB   Radu Petrescu                 ABL:70
+  ST    Mirko Zăvoianu                ABL:55
+  LM    Emil Lăcătuș                  ABL:69
+  CM    Rasho Lăcătuș                 ABL:57
+  GK    Emil Petrescu                 ABL:61
+  CM    Rasho Petrescu                ABL:58
+  RM    Nikola Lăcătuș                ABL:68
+  RW    Radu Costea                   ABL:70
+  LWB   Nikola Iordache               ABL:70
+  CM    Rasho Zăvoianu                ABL:60
+  CF    Django Lăcătuș                ABL:56
+  CB    Django Zăvoianu               ABL:59
+  GK    Radu Lăcătuș                  ABL:67
+  LW    Nikola Costea                 ABL:64
+  RM    Nikola Zăvoianu               ABL:63
+  CB    Rasho Iordache                ABL:67
+  CB    Rasho Costea                  ABL:55
+  RWB   Emil Iordache                 ABL:59
+  CM    Django Iordache               ABL:59
+
+=== Adygea (Overall: 69) | Region: Europe ===
+  CB    Ruslan Kagermazov             ABL:63
+  RB    Murat Tlisov                  ABL:60
+  CDM   Timur Khagba                  ABL:65
+  RM    Murat Kagermazov              ABL:58
+  LM    Kazbek Tlisov                 ABL:62
+  GK    Beslan Khagba                 ABL:63
+  CAM   Timur Abzhandadze             ABL:59
+  RWB   Ruslan Tlisov                 ABL:60
+  LB    Kazbek Nartov                 ABL:61
+  LW    Zaur Kanukov                  ABL:68
+  LM    Aslan Nartov                  ABL:58
+  ST    Aslan Kanukov                 ABL:63
+  GK    Timur Tlisov                  ABL:66
+  CF    Zaur Nartov                   ABL:55
+  RB    Beslan Abzhandadze            ABL:65
+  CM    Aslan Kagermazov              ABL:56
+  GK    Kazbek Kanukov                ABL:62
+  LWB   Aslan Kokov                   ABL:59
+  CB    Aslan Tlisov                  ABL:55
+  RM    Zaur Abzhandadze              ABL:69
+  ST    Zaur Tlisov                   ABL:59
+  RW    Murat Kokov                   ABL:58
+
+=== Kabardino-Balkaria (Overall: 71) | Region: Europe ===
+  LWB   Kazbek Tlisov                 ABL:63
+  CB    Timur Kagermazov              ABL:63
+  CDM   Zaur Abzhandadze              ABL:67
+  CDM   Timur Abzhandadze             ABL:62
+  LW    Kazbek Khagba                 ABL:69
+  RW    Aslan Abzhandadze             ABL:58
+  CAM   Ruslan Kokov                  ABL:67
+  GK    Zaur Kagermazov               ABL:62
+  CM    Zaur Nartov                   ABL:62
+  LWB   Murat Khagba                  ABL:71
+  RWB   Timur Kokov                   ABL:63
+  GK    Beslan Khagba                 ABL:57
+  LW    Murat Nartov                  ABL:65
+  CAM   Aslan Tlisov                  ABL:60
+  LM    Ruslan Kanukov                ABL:63
+  LWB   Beslan Nartov                 ABL:61
+  CB    Beslan Kanukov                ABL:62
+  RWB   Beslan Kagermazov             ABL:62
+  CF    Kazbek Kokov                  ABL:58
+  CM    Aslan Nartov                  ABL:70
+  CF    Kazbek Kagermazov             ABL:56
+  LW    Kazbek Abzhandadze            ABL:66
+  CDM   Timur Khagba                  ABL:70
+  CAM   Ruslan Abzhandadze            ABL:60
+
+=== Chechnya (Overall: 74) | Region: Europe ===
+  GK    Vakha Magomadov               ABL:59
+  LWB   Shamil Khadzhiev              ABL:62
+  GK    Ramzan Khadzhiev              ABL:63
+  LM    Movsar Basaev                 ABL:61
+  CAM   Vakha Khadzhiev               ABL:59
+  ST    Movsar Aliev                  ABL:60
+  CM    Shamil Magomadov              ABL:65
+  CDM   Movsar Dudayev                ABL:63
+  CB    Ramzan Basaev                 ABL:58
+  RB    Adam Yandarov                 ABL:56
+  LW    Vakha Dudayev                 ABL:70
+  CB    Adam Aliev                    ABL:69
+  LM    Adam Dudayev                  ABL:63
+  RW    Aslan Dudayev                 ABL:72
+  RM    Shamil Dudayev                ABL:66
+  RM    Ramzan Dudayev                ABL:74
+  LW    Adam Magomadov                ABL:60
+  LWB   Aslan Khadzhiev               ABL:71
+  CF    Movsar Khadzhiev              ABL:69
+  CAM   Vakha Yandarov                ABL:65
+  RB    Ramzan Yandarov               ABL:65
+  CB    Aslan Magomadov               ABL:67
+  LW    Aslan Basaev                  ABL:66
+  LM    Shamil Basaev                 ABL:68
+
+=== North Frisia (Overall: 67) | Region: Europe ===
+  LM    Tjeerd Postma                 ABL:57
+  GK    Tjeerd Bakker                 ABL:64
+  LW    Tjeerd Terpstra               ABL:59
+  RWB   Douwe Postma                  ABL:63
+  CB    Wiebe de Boer                 ABL:62
+  CF    Douwe Visser                  ABL:61
+  RWB   Douwe Bakker                  ABL:59
+  LB    Sytse de Boer                 ABL:63
+  LW    Wiebe Visser                  ABL:59
+  GK    Sjoerd Terpstra               ABL:55
+  ST    Sjoerd Postma                 ABL:59
+  CDM   Sytse Postma                  ABL:67
+  CDM   Douwe Terpstra                ABL:58
+  RW    Sytse Terpstra                ABL:60
+  CM    Wiebe Postma                  ABL:63
+  LW    Wiebe Bakker                  ABL:66
+  LW    Wiebe Terpstra                ABL:67
+  CF    Tjeerd Visser                 ABL:59
+  RWB   Sjoerd Bakker                 ABL:56
+  CM    Douwe de Boer                 ABL:65
+  CDM   Sjoerd Visser                 ABL:66
+  LW    Sytse Bakker                  ABL:55
+  RWB   Tjeerd de Boer                ABL:57
+
+=== Găgăuzia (Overall: 68) | Region: Europe ===
+  LW    Yerbol Karimov                ABL:63
+  ST    Yerbol Tashkentov             ABL:62
+  ST    Erlan Rashidov                ABL:59
+  LM    Bekzat Tashkentov             ABL:65
+  CDM   Yerbol Ismailov               ABL:63
+  LW    Aybek Yusupov                 ABL:62
+  CB    Yerbol Yusupov                ABL:58
+  CM    Bekzat Karimov                ABL:68
+  CAM   Aybek Tashkentov              ABL:65
+  RW    Erlan Yusupov                 ABL:55
+  GK    Timur Yusupov                 ABL:64
+  CB    Aybek Nazarov                 ABL:67
+  RWB   Timur Karimov                 ABL:55
+  LM    Nurlan Rashidov               ABL:62
+  RB    Timur Nazarov                 ABL:56
+  CB    Bekzat Rashidov               ABL:55
+  CF    Erlan Tashkentov              ABL:60
+  CF    Bekzat Nazarov                ABL:66
+  RWB   Yerbol Nazarov                ABL:60
+  CAM   Erlan Ismailov                ABL:59
+  CB    Nurlan Tashkentov             ABL:63
+  GK    Bekzat Yusupov                ABL:66
+
+=== Sardinia (Overall: 75) | Region: Europe ===
+  LB    Antioco Melis                 ABL:73
+  CB    Priamo Mura                   ABL:70
+  RW    Cosimo Serra                  ABL:73
+  CB    Battista Melis                ABL:66
+  LM    Bachisio Serra                ABL:57
+  CAM   Efisio Sanna                  ABL:75
+  RB    Giampietro Pinna              ABL:69
+  CDM   Efisio Pili                   ABL:72
+  CB    Priamo Pili                   ABL:56
+  GK    Raimondo Mereu                ABL:71
+  RW    Efisio Loi                    ABL:57
+  LW    Battista Pinna                ABL:61
+  LB    Cosimo Pinna                  ABL:58
+  LM    Bachisio Piras                ABL:67
+  GK    Bachisio Sanna                ABL:71
+  CF    Salvatore Piras               ABL:72
+  RM    Priamo Loi                    ABL:58
+  LB    Raimondo Pili                 ABL:69
+  LWB   Priamo Pinna                  ABL:60
+  RM    Priamo Piras                  ABL:65
+  LWB   Raimondo Fadda                ABL:66
+  RM    Gavino Piras                  ABL:65
+  CM    Gavino Deiana                 ABL:75
+  ST    Gavino Serra                  ABL:62
+  CDM   Raimondo Piras                ABL:61
+
+=== Skåneland (Overall: 70) | Region: Europe ===
+  LB    Oskar Solberg                 ABL:64
+  GK    Erik Hansen                   ABL:67
+  RM    Anders Andersen               ABL:65
+  CDM   Sven Holm                     ABL:68
+  CAM   Anders Karlsen                ABL:55
+  GK    Rasmus Solberg                ABL:67
+  RB    Erik Berg                     ABL:56
+  RW    Sven Eriksson                 ABL:59
+  LB    Frode Karlsen                 ABL:59
+  CM    Erik Solberg                  ABL:67
+  RB    Henrik Hansen                 ABL:57
+  CB    Björn Holm                    ABL:64
+  LW    Magnus Johansson              ABL:59
+  ST    Sven Nilsson                  ABL:70
+  CDM   Oskar Andersen                ABL:67
+  CM    Nils Nilsson                  ABL:67
+  CAM   Gustav Holm                   ABL:59
+  CB    Lars Lindqvist                ABL:61
+  ST    Henrik Holm                   ABL:61
+  RWB   Gustav Hansen                 ABL:62
+  LW    Björn Nilsson                 ABL:63
+  RB    Magnus Larsen                 ABL:57
+  LWB   Anders Solberg                ABL:68
+  CM    Sven Karlsen                  ABL:65
+  GK    Sven Hansen                   ABL:55
+
+=== Yorkshire (Overall: 73) | Region: Europe ===
+  LWB   James Hughes                  ABL:55
+  RB    Harry Turner                  ABL:63
+  CB    William Taylor                ABL:55
+  CDM   Thomas Turner                 ABL:62
+  CDM   George Walker                 ABL:58
+  GK    William Hughes                ABL:72
+  LW    Harry Brown                   ABL:61
+  CDM   Ben Hughes                    ABL:72
+  LW    James Smith                   ABL:62
+  ST    Ben Clarke                    ABL:65
+  RB    Charlie Turner                ABL:60
+  CM    James Baker                   ABL:66
+  RWB   William Clarke                ABL:62
+  CB    James Clarke                  ABL:67
+  CF    James Walker                  ABL:63
+  CB    Oliver Brown                  ABL:65
+  RM    George Brown                  ABL:57
+  CAM   Sam Wilson                    ABL:68
+  ST    Oliver Hall                   ABL:59
+  CM    George Clarke                 ABL:65
+  CB    Charlie Walker                ABL:59
+  CAM   Sam Walker                    ABL:61
+  GK    Jack Clarke                   ABL:71
+  CM    Jack Turner                   ABL:59
+
+=== Friuli (Overall: 71) | Region: Europe ===
+  CAM   Luca Costa                    ABL:55
+  CAM   Simone Costa                  ABL:62
+  RW    Alessandro Ricci              ABL:57
+  RW    Francesco Giordano            ABL:70
+  GK    Stefano Giordano              ABL:62
+  RW    Giuseppe De Luca              ABL:56
+  RWB   Emanuele De Luca              ABL:65
+  LB    Antonio Rinaldi               ABL:71
+  LW    Luca Barbieri                 ABL:58
+  CB    Roberto Giordano              ABL:56
+  LM    Davide Barbieri               ABL:67
+  LW    Luca Fontana                  ABL:67
+  CAM   Enrico Ferrari                ABL:61
+  LM    Riccardo Giordano             ABL:67
+  CDM   Riccardo Bruno                ABL:69
+  CB    Francesco Costa               ABL:64
+  CM    Emanuele Ferrari              ABL:71
+  LWB   Giovanni Giordano             ABL:69
+  LM    Matteo Barbieri               ABL:58
+  GK    Francesco Santoro             ABL:59
+  ST    Antonio Costa                 ABL:65
+  CB    Roberto Rossi                 ABL:60
+  RW    Roberto Santoro               ABL:61
+
+=== Délvidék (Overall: 72) | Region: Europe ===
+  LM    Ante Marić                    ABL:70
+  RM    Filip Perić                   ABL:69
+  CF    Marko Barišić                 ABL:55
+  CB    Ante Vuković                  ABL:63
+  CDM   Nikola Vuković                ABL:61
+  RWB   Ivan Babić                    ABL:59
+  CAM   Ivan Novak                    ABL:56
+  RWB   Luka Horvat                   ABL:64
+  LM    Petar Kovačić                 ABL:56
+  ST    Marko Perić                   ABL:60
+  RM    Luka Jurić                    ABL:72
+  GK    Luka Kovač                    ABL:66
+  RWB   Ivan Kovačić                  ABL:64
+  RWB   Petar Novak                   ABL:67
+  LW    Karlo Kovačić                 ABL:64
+  RW    Filip Babić                   ABL:58
+  RW    Josip Novak                   ABL:71
+  RM    Tomislav Vuković              ABL:61
+  CF    Ante Barišić                  ABL:56
+  CB    Filip Barišić                 ABL:64
+  CDM   Tomislav Barišić              ABL:65
+  GK    Josip Vuković                 ABL:66
+  RW    Luka Barišić                  ABL:70
+  RWB   Karlo Kovač                   ABL:70
+  CB    Ante Jurić                    ABL:61
+
+=== Felvidék (Overall: 72) | Region: Europe ===
+  LM    Ivan Vuković                  ABL:64
+  RWB   Nikola Novak                  ABL:72
+  ST    Karlo Horvat                  ABL:61
+  CDM   Petar Kovačić                 ABL:59
+  LWB   Josip Horvat                  ABL:65
+  GK    Tomislav Vuković              ABL:60
+  CDM   Nikola Barišić                ABL:67
+  RWB   Luka Barišić                  ABL:58
+  ST    Josip Novak                   ABL:56
+  CAM   Josip Perić                   ABL:57
+  RB    Filip Marić                   ABL:66
+  LW    Filip Jurić                   ABL:61
+  CM    Karlo Jurić                   ABL:60
+  RW    Marko Novak                   ABL:56
+  ST    Ante Kovačić                  ABL:69
+  CB    Filip Vuković                 ABL:59
+  ST    Ante Novak                    ABL:70
+  RM    Petar Babić                   ABL:58
+  ST    Karlo Babić                   ABL:61
+  CAM   Ivan Kovač                    ABL:67
+  CB    Karlo Kovačić                 ABL:55
+  GK    Nikola Kovačić                ABL:65
+
+=== Kárpátalja (Overall: 70) | Region: Europe ===
+  LB    Ivan Kovač                    ABL:56
+  CB    Marko Perić                   ABL:56
+  GK    Tomislav Babić                ABL:69
+  ST    Nikola Novak                  ABL:64
+  RW    Petar Marić                   ABL:57
+  CAM   Filip Barišić                 ABL:59
+  RM    Marko Kovač                   ABL:58
+  GK    Filip Jurić                   ABL:69
+  CAM   Filip Marić                   ABL:62
+  RW    Luka Barišić                  ABL:63
+  CM    Petar Perić                   ABL:60
+  LB    Petar Novak                   ABL:69
+  CM    Filip Horvat                  ABL:57
+  LW    Filip Kovačić                 ABL:66
+  RWB   Filip Kovač                   ABL:60
+  RWB   Josip Novak                   ABL:59
+  CAM   Karlo Kovačić                 ABL:67
+  LW    Marko Novak                   ABL:57
+  CM    Josip Vuković                 ABL:69
+  LW    Tomislav Barišić              ABL:68
+  LWB   Ante Barišić                  ABL:62
+  RWB   Karlo Babić                   ABL:70
+  CAM   Tomislav Kovačić              ABL:65
+  LM    Tomislav Perić                ABL:65
+  ST    Karlo Marić                   ABL:60
+
+=== Parishes of Jersey (Overall: 69) | Region: Europe ===
+  LW    Louis Dubois                  ABL:55
+  GK    Julien Dubois                 ABL:61
+  CF    Baptiste Bernard              ABL:68
+  LM    Antoine Moreau                ABL:60
+  GK    Julien Moreau                 ABL:55
+  CB    Nicolas Dubois                ABL:68
+  CAM   Baptiste Lefèvre              ABL:68
+  ST    Louis Bernard                 ABL:61
+  RB    Pierre Rousseau               ABL:60
+  CM    Nicolas Girard                ABL:61
+  LWB   Pierre Girard                 ABL:63
+  LWB   Jean Rousseau                 ABL:57
+  CDM   Pierre Bernard                ABL:58
+  CDM   Julien Girard                 ABL:68
+  LB    Antoine Fabre                 ABL:61
+  RB    Jean Lefèvre                  ABL:68
+  RM    Nicolas Bernard               ABL:57
+  LW    Louis Moreau                  ABL:65
+  RW    Jean Moreau                   ABL:57
+  GK    Nicolas Fabre                 ABL:61
+  CF    Baptiste Girard               ABL:69
+  LWB   Baptiste Rousseau             ABL:64
+
+=== Rhodes (Overall: 68) | Region: Europe ===
+  LM    Enrico Mancini                ABL:64
+  RB    Stefano Costa                 ABL:60
+  CDM   Riccardo Bruno                ABL:57
+  LWB   Luca Rinaldi                  ABL:66
+  LW    Riccardo Santoro              ABL:59
+  GK    Luca Mancini                  ABL:64
+  CM    Francesco Santoro             ABL:55
+  ST    Riccardo Rinaldi              ABL:55
+  RM    Riccardo Mancini              ABL:56
+  RM    Giovanni Barbieri             ABL:56
+  RB    Simone Greco                  ABL:57
+  ST    Emanuele Greco                ABL:59
+  GK    Simone Rossi                  ABL:66
+  CB    Andrea Rinaldi                ABL:57
+  CF    Vittorio Romano               ABL:65
+  LW    Roberto Conti                 ABL:67
+  CF    Francesco Greco               ABL:67
+  RM    Davide Mancini                ABL:57
+  LB    Enrico Ferrari                ABL:60
+  CM    Matteo Romano                 ABL:64
+  RB    Giovanni Mancini              ABL:67
+  GK    Giuseppe De Luca              ABL:58
+  LM    Roberto Colombo               ABL:58
+  ST    Vittorio Conti                ABL:55
+  LWB   Simone Bianchi                ABL:55
+
+=== Jersey (Overall: 71) | Region: Europe ===
+  CF    Antoine Fabre                 ABL:67
+  LB    Pierre Moreau                 ABL:71
+  CF    Nicolas Lefèvre               ABL:64
+  ST    Nicolas Bernard               ABL:67
+  LB    Louis Bernard                 ABL:65
+  LM    Baptiste Fabre                ABL:56
+  RW    Baptiste Rousseau             ABL:64
+  CDM   Pierre Rousseau               ABL:60
+  LW    Julien Bernard                ABL:69
+  ST    Nicolas Girard                ABL:64
+  CAM   Jean Bernard                  ABL:61
+  RB    Jean Rousseau                 ABL:55
+  GK    Antoine Rousseau              ABL:58
+  RM    Nicolas Fabre                 ABL:59
+  CAM   Pierre Girard                 ABL:60
+  RB    Louis Moreau                  ABL:66
+  CB    Pierre Bernard                ABL:56
+  CB    Louis Dubois                  ABL:65
+  RM    Julien Girard                 ABL:59
+  GK    Nicolas Rousseau              ABL:67
+  CM    Jean Moreau                   ABL:58
+  CM    Jean Girard                   ABL:70
+
+=== Crimea Tatars (Overall: 71) | Region: Europe ===
+  CB    Yerbol Rashidov               ABL:58
+  RB    Aybek Ismailov                ABL:61
+  ST    Timur Rashidov                ABL:69
+  CF    Aybek Karimov                 ABL:65
+  CAM   Bekzat Rashidov               ABL:70
+  CB    Timur Ismailov                ABL:59
+  GK    Aybek Tashkentov              ABL:61
+  CM    Erlan Ismailov                ABL:63
+  ST    Nurlan Yusupov                ABL:66
+  CB    Erlan Rashidov                ABL:58
+  LM    Erlan Karimov                 ABL:70
+  CB    Nurlan Karimov                ABL:60
+  CB    Yerbol Tashkentov             ABL:64
+  CAM   Aybek Rashidov                ABL:61
+  RM    Yerbol Nazarov                ABL:70
+  CDM   Yerbol Ismailov               ABL:71
+  CM    Erlan Nazarov                 ABL:63
+  CAM   Timur Tashkentov              ABL:55
+  LB    Yerbol Karimov                ABL:71
+  LM    Bekzat Tashkentov             ABL:64
+  GK    Yerbol Yusupov                ABL:58
+  ST    Timur Yusupov                 ABL:56
+  ST    Bekzat Karimov                ABL:62
+  CB    Bekzat Yusupov                ABL:57
+
+=== Greenland (Overall: 73) | Region: Europe ===
+  LB    Piita Qaunaq                  ABL:59
+  CAM   Nukka Aariak                  ABL:66
+  CB    Sila Angnakak                 ABL:64
+  CF    Kanguq Angnakak               ABL:72
+  GK    Aput Angnakak                 ABL:56
+  GK    Ujarak Angnakak               ABL:58
+  CAM   Kanguq Aariak                 ABL:68
+  LM    Sila Aariak                   ABL:58
+  CB    Ujarak Kunuk                  ABL:57
+  LM    Kanguq Kunuk                  ABL:60
+  RB    Nukka Angnakak                ABL:66
+  CB    Aput Aariak                   ABL:62
+  LM    Ujarak Ittinuar               ABL:70
+  LB    Kanguq Ittinuar               ABL:69
+  GK    Ujarak Aariak                 ABL:64
+  LM    Piita Angnakak                ABL:71
+  CB    Kanguq Qaunaq                 ABL:69
+  RW    Piita Ittinuar                ABL:73
+  CF    Piita Aariak                  ABL:69
+  RM    Ujarak Qaunaq                 ABL:67
+  CF    Sila Qaunaq                   ABL:61
+  RW    Sila Kunuk                    ABL:65
+
+=== Cornwall (Overall: 78) | Region: Europe ===
+  LB    Kenwyn Polglase               ABL:67
+  CM    Bryok Polglase                ABL:56
+  LW    Teague Pengelly               ABL:59
+  ST    Jowan Tremayne                ABL:57
+  CB    Jowan Trevithick              ABL:77
+  CB    Jago Pengelly                 ABL:76
+  CB    Jowan Pengelly                ABL:77
+  RM    Jago Polglase                 ABL:71
+  GK    Jowan Polglase                ABL:75
+  LWB   Tallack Trewin                ABL:69
+  CAM   Jago Trewin                   ABL:64
+  LW    Teague Polglase               ABL:68
+  LW    Kenwyn Rowe                   ABL:76
+  CF    Bryok Pengelly                ABL:61
+  CB    Tallack Polglase              ABL:57
+  LWB   Kenwyn Trevithick             ABL:59
+  LW    Kenwyn Tremayne               ABL:58
+  CDM   Bryok Trewin                  ABL:60
+  LW    Kenwyn Trewin                 ABL:73
+  CM    Teague Trewin                 ABL:57
+  GK    Kenwyn Pengelly               ABL:77
+  CM    Bryok Rowe                    ABL:59
+
+=== Gozo (Overall: 74) | Region: Europe ===
+  RWB   Mikiel Camilleri              ABL:67
+  RM    Andrè Farrugia                ABL:67
+  ST    Toni Camilleri                ABL:65
+  CF    Toni Micallef                 ABL:61
+  RB    Rużar Camilleri               ABL:63
+  LM    Rużar Borg                    ABL:72
+  CAM   Mikiel Micallef               ABL:59
+  CAM   Pawlu Grech                   ABL:73
+  LW    Karl Zammit                   ABL:56
+  CAM   Toni Zammit                   ABL:70
+  LW    Pawlu Borg                    ABL:61
+  GK    Duminku Attard                ABL:60
+  RB    Jean-Paul Vella               ABL:57
+  LW    Duminku Zammit                ABL:57
+  GK    Duminku Micallef              ABL:68
+  RM    Pawlu Attard                  ABL:60
+  CB    Karl Camilleri                ABL:68
+  LB    Toni Attard                   ABL:60
+  LB    Andrè Micallef                ABL:70
+  GK    Mikiel Zammit                 ABL:66
+  CF    Andrè Borg                    ABL:72
+  LWB   Pawlu Camilleri               ABL:73
+
+=== Székely Land (Overall: 80) | Region: Europe ===
+  RW    Tomislav Perić                ABL:66
+  GK    Petar Vuković                 ABL:68
+  RM    Karlo Novak                   ABL:58
+  CAM   Luka Kovač                    ABL:68
+  RB    Petar Babić                   ABL:72
+  CB    Nikola Babić                  ABL:72
+  RWB   Josip Perić                   ABL:75
+  RWB   Josip Barišić                 ABL:58
+  CDM   Marko Kovačić                 ABL:57
+  LW    Ivan Barišić                  ABL:68
+  CF    Marko Kovač                   ABL:78
+  GK    Nikola Vuković                ABL:58
+  CB    Filip Vuković                 ABL:73
+  LM    Ivan Jurić                    ABL:68
+  RWB   Ante Marić                    ABL:79
+  LW    Tomislav Kovačić              ABL:61
+  CAM   Filip Kovačić                 ABL:66
+  RW    Filip Perić                   ABL:75
+  CDM   Tomislav Horvat               ABL:66
+  LB    Ante Vuković                  ABL:64
+  LM    Josip Jurić                   ABL:64
+  LM    Tomislav Marić                ABL:55
+  CB    Ivan Horvat                   ABL:59
+
+=== Cilento (Overall: 75) | Region: Europe ===
+  LM    Marco Romano                  ABL:69
+  CM    Paolo Colombo                 ABL:62
+  CF    Davide Bruno                  ABL:61
+  LWB   Salvatore Marino              ABL:67
+  CDM   Simone Ferrari                ABL:63
+  ST    Matteo Romano                 ABL:75
+  CF    Marco Santoro                 ABL:58
+  GK    Andrea Giordano               ABL:74
+  RB    Andrea Bianchi                ABL:59
+  LWB   Riccardo Greco                ABL:60
+  GK    Matteo Russo                  ABL:70
+  CM    Paolo Ricci                   ABL:67
+  GK    Andrea Mancini                ABL:55
+  RW    Giuseppe Russo                ABL:70
+  RM    Matteo Ricci                  ABL:68
+  CB    Antonio Gallo                 ABL:75
+  CB    Roberto Colombo               ABL:60
+  RM    Riccardo Rossi                ABL:60
+  LM    Vittorio Rinaldi              ABL:56
+  RW    Andrea Gallo                  ABL:66
+  LM    Fabio Rinaldi                 ABL:74
+  LB    Salvatore Rossi               ABL:60
+  LB    Enrico Greco                  ABL:58
+  RB    Alessandro Rinaldi            ABL:55
+
+=== Monaco (Overall: 76) | Region: Europe ===
+  CDM   Julien Girard                 ABL:68
+  GK    Jean Dubois                   ABL:66
+  CAM   Antoine Rousseau              ABL:57
+  CM    Pierre Bernard                ABL:56
+  ST    Julien Lefèvre                ABL:73
+  LM    Pierre Lefèvre                ABL:74
+  RW    Baptiste Rousseau             ABL:71
+  LB    Antoine Girard                ABL:55
+  LB    Louis Bernard                 ABL:65
+  GK    Pierre Fabre                  ABL:60
+  CB    Antoine Bernard               ABL:57
+  CF    Jean Rousseau                 ABL:66
+  CM    Baptiste Lefèvre              ABL:58
+  GK    Louis Lefèvre                 ABL:55
+  CF    Nicolas Lefèvre               ABL:61
+  ST    Pierre Dubois                 ABL:65
+  CF    Louis Girard                  ABL:64
+  CB    Julien Bernard                ABL:71
+  CB    Jean Moreau                   ABL:72
+  CB    Julien Fabre                  ABL:76
+  CAM   Louis Dubois                  ABL:75
+  LW    Pierre Rousseau               ABL:68
+
+=== Guernsey (Overall: 79) | Region: Europe ===
+  CM    Pierre Lefèvre                ABL:77
+  RB    Pierre Girard                 ABL:75
+  RM    Louis Fabre                   ABL:66
+  LW    Julien Moreau                 ABL:55
+  CDM   Jean Moreau                   ABL:55
+  CF    Antoine Fabre                 ABL:77
+  RB    Nicolas Girard                ABL:62
+  CB    Jean Rousseau                 ABL:66
+  CB    Baptiste Dubois               ABL:55
+  ST    Nicolas Fabre                 ABL:56
+  RB    Louis Moreau                  ABL:56
+  LB    Antoine Moreau                ABL:63
+  RW    Antoine Rousseau              ABL:74
+  CAM   Baptiste Fabre                ABL:67
+  LW    Jean Bernard                  ABL:73
+  LM    Pierre Moreau                 ABL:59
+  CB    Jean Fabre                    ABL:73
+  GK    Baptiste Girard               ABL:75
+  LM    Pierre Rousseau               ABL:58
+  ST    Julien Dubois                 ABL:62
+  RW    Julien Girard                 ABL:76
+  LW    Louis Lefèvre                 ABL:72
+  GK    Nicolas Rousseau              ABL:61
+  RM    Nicolas Moreau                ABL:57
+
+=== Wallonia (Overall: 81) | Region: Europe ===
+  CAM   Antoine Rousseau              ABL:76
+  RB    Julien Girard                 ABL:71
+  CB    Jean Lefèvre                  ABL:76
+  LM    Antoine Lefèvre               ABL:67
+  GK    Jean Moreau                   ABL:73
+  RM    Julien Rousseau               ABL:65
+  LW    Baptiste Dubois               ABL:58
+  CAM   Pierre Fabre                  ABL:69
+  LM    Julien Fabre                  ABL:80
+  LB    Louis Moreau                  ABL:70
+  RB    Nicolas Bernard               ABL:69
+  CB    Julien Lefèvre                ABL:74
+  CAM   Pierre Lefèvre                ABL:57
+  CF    Baptiste Lefèvre              ABL:55
+  CB    Pierre Moreau                 ABL:61
+  CDM   Antoine Fabre                 ABL:73
+  RWB   Louis Girard                  ABL:66
+  CAM   Nicolas Fabre                 ABL:55
+  CB    Louis Lefèvre                 ABL:59
+  GK    Baptiste Fabre                ABL:71
+  ST    Julien Bernard                ABL:57
+  CAM   Nicolas Lefèvre               ABL:59
+  ST    Pierre Dubois                 ABL:57
+  LB    Antoine Bernard               ABL:56
+
+=== County of Nice (Overall: 79) | Region: Europe ===
+  CB    Julien Rousseau               ABL:75
+  CAM   Jean Girard                   ABL:59
+  GK    Pierre Dubois                 ABL:65
+  ST    Antoine Dubois                ABL:67
+  CB    Nicolas Dubois                ABL:56
+  RW    Antoine Rousseau              ABL:58
+  LB    Nicolas Lefèvre               ABL:55
+  RB    Pierre Lefèvre                ABL:65
+  CAM   Nicolas Moreau                ABL:60
+  GK    Antoine Lefèvre               ABL:60
+  CB    Jean Fabre                    ABL:55
+  LM    Pierre Fabre                  ABL:74
+  RW    Pierre Rousseau               ABL:67
+  CM    Jean Lefèvre                  ABL:78
+  CF    Antoine Girard                ABL:76
+  CAM   Louis Bernard                 ABL:79
+  LW    Julien Moreau                 ABL:68
+  CAM   Julien Bernard                ABL:64
+  LM    Julien Fabre                  ABL:59
+  CDM   Jean Rousseau                 ABL:65
+  LB    Baptiste Moreau               ABL:57
+  CF    Antoine Fabre                 ABL:79
+  ST    Pierre Bernard                ABL:69
+
+=== Corsica (Overall: 78) | Region: Europe ===
+  RWB   Jean Dubois                   ABL:62
+  CAM   Julien Rousseau               ABL:63
+  RM    Pierre Rousseau               ABL:73
+  RW    Nicolas Fabre                 ABL:75
+  RB    Antoine Bernard               ABL:75
+  ST    Nicolas Lefèvre               ABL:68
+  RM    Nicolas Moreau                ABL:68
+  CB    Baptiste Girard               ABL:67
+  CB    Antoine Fabre                 ABL:61
+  CDM   Baptiste Fabre                ABL:70
+  CF    Antoine Dubois                ABL:55
+  LWB   Nicolas Rousseau              ABL:67
+  LW    Louis Rousseau                ABL:69
+  CM    Jean Rousseau                 ABL:77
+  LB    Jean Moreau                   ABL:75
+  RM    Louis Moreau                  ABL:60
+  GK    Louis Bernard                 ABL:72
+  GK    Nicolas Girard                ABL:64
+  RW    Julien Lefèvre                ABL:64
+  LW    Baptiste Dubois               ABL:63
+  CM    Louis Fabre                   ABL:58
+  RWB   Pierre Fabre                  ABL:61
+
+=== Abkhazia (Overall: 83) | Region: Europe ===
+  GK    Ruslan Khagba                 ABL:76
+  GK    Murat Kanukov                 ABL:78
+  CF    Timur Kanukov                 ABL:62
+  CM    Beslan Nartov                 ABL:61
+  CB    Kazbek Nartov                 ABL:76
+  CAM   Kazbek Tlisov                 ABL:66
+  LM    Murat Tlisov                  ABL:82
+  RW    Kazbek Kagermazov             ABL:68
+  RB    Ruslan Nartov                 ABL:64
+  LW    Beslan Abzhandadze            ABL:59
+  RB    Murat Kokov                   ABL:72
+  LB    Zaur Abzhandadze              ABL:64
+  RWB   Beslan Kanukov                ABL:65
+  RM    Timur Abzhandadze             ABL:60
+  ST    Zaur Kanukov                  ABL:67
+  ST    Timur Nartov                  ABL:60
+  CM    Zaur Tlisov                   ABL:79
+  RB    Murat Khagba                  ABL:69
+  CAM   Beslan Kagermazov             ABL:78
+  CM    Timur Kagermazov              ABL:74
+  CAM   Zaur Kokov                    ABL:76
+  GK    Aslan Kagermazov              ABL:57
+  LB    Aslan Kokov                   ABL:55
+
+=== South Ossetia (Overall: 81) | Region: Europe ===
+  RW    Murat Kanukov                 ABL:79
+  CAM   Aslan Tlisov                  ABL:77
+  ST    Kazbek Khagba                 ABL:69
+  RM    Timur Tlisov                  ABL:60
+  CDM   Murat Kokov                   ABL:70
+  GK    Zaur Tlisov                   ABL:66
+  CB    Ruslan Kokov                  ABL:66
+  RM    Aslan Kanukov                 ABL:59
+  LB    Timur Khagba                  ABL:76
+  LB    Aslan Kagermazov              ABL:76
+  GK    Beslan Nartov                 ABL:65
+  LW    Ruslan Nartov                 ABL:80
+  LM    Kazbek Kokov                  ABL:66
+  RWB   Timur Kagermazov              ABL:70
+  CAM   Timur Abzhandadze             ABL:60
+  ST    Ruslan Kagermazov             ABL:63
+  RW    Beslan Tlisov                 ABL:63
+  RW    Timur Kokov                   ABL:70
+  ST    Ruslan Kanukov                ABL:56
+  CB    Zaur Kanukov                  ABL:77
+  LM    Ruslan Khagba                 ABL:69
+  CB    Murat Khagba                  ABL:56
+
+=== Two Sicilies (Overall: 85) | Region: Europe ===
+  RWB   Paolo Russo                   ABL:59
+  GK    Vittorio Marino               ABL:79
+  CF    Matteo Russo                  ABL:55
+  LM    Marco Gallo                   ABL:82
+  ST    Emanuele Russo                ABL:59
+  CF    Vittorio Giordano             ABL:75
+  GK    Stefano Bianchi               ABL:74
+  LWB   Andrea Ferrari                ABL:77
+  LB    Giovanni Ricci                ABL:84
+  CDM   Matteo Colombo                ABL:57
+  ST    Matteo Rossi                  ABL:68
+  CB    Davide Ricci                  ABL:56
+  GK    Matteo De Luca                ABL:65
+  LM    Enrico Ricci                  ABL:70
+  LW    Alessandro Mancini            ABL:74
+  CM    Francesco Mancini             ABL:64
+  LWB   Vittorio Ferrari              ABL:69
+  CB    Francesco Barbieri            ABL:55
+  RM    Alessandro Greco              ABL:59
+  CB    Salvatore Santoro             ABL:61
+  CB    Andrea Russo                  ABL:61
+  ST    Francesco Gallo               ABL:79
+  CAM   Davide Colombo                ABL:67
+  LM    Vittorio Bruno                ABL:74
+
+=== Sápmi (Overall: 84) | Region: Europe ===
+  CB    Nils-Aslak Hætta              ABL:66
+  GK    Jovnna Utsi                   ABL:83
+  LB    Jovnna Eira                   ABL:84
+  CDM   Biret Somby                   ABL:67
+  GK    Jovnna Somby                  ABL:83
+  CDM   Ánde Sara                     ABL:78
+  LW    Biret Utsi                    ABL:68
+  LWB   Nils-Aslak Somby              ABL:59
+  RB    Biret Eira                    ABL:67
+  CAM   Biret Hætta                   ABL:59
+  CDM   Nils-Aslak Utsi               ABL:80
+  RWB   Mikkel Sara                   ABL:61
+  CAM   Nils-Aslak Guttorm            ABL:67
+  CAM   Jovnna Sara                   ABL:63
+  LB    Áilu Sara                     ABL:55
+  CM    Ánde Eira                     ABL:81
+  LW    Biret Gaup                    ABL:63
+  CB    Jovnna Gaup                   ABL:78
+  LW    Ánde Utsi                     ABL:76
+  RWB   Nils-Aslak Eira               ABL:58
+  LM    Iŋgá Utsi                     ABL:74
+  CB    Ánde Gaup                     ABL:70
+  GK    Biret Sara                    ABL:68
+  CF    Jovnna Guttorm                ABL:64
+  CF    Iŋgá Sara                     ABL:65
+
+=== South Tyrol (Overall: 85) | Region: Europe ===
+  CM    Tobias Müller                 ABL:67
+  RM    Maximilian Meyer              ABL:65
+  GK    Lukas Meyer                   ABL:70
+  CB    Sebastian Meyer               ABL:83
+  ST    Julian Fischer                ABL:57
+  GK    Sebastian Weber               ABL:79
+  CB    Maximilian Becker             ABL:79
+  CF    Florian Wagner                ABL:59
+  CAM   Florian Becker                ABL:79
+  LB    Lukas Weber                   ABL:62
+  ST    Maximilian Wagner             ABL:55
+  LWB   Florian Fischer               ABL:81
+  GK    Tobias Weber                  ABL:72
+  LWB   Sebastian Fischer             ABL:74
+  CAM   Tobias Schneider              ABL:81
+  CDM   Julian Schneider              ABL:85
+  RW    Tobias Meyer                  ABL:58
+  CDM   Lukas Wagner                  ABL:83
+  LB    Tobias Fischer                ABL:62
+  LM    Julian Becker                 ABL:82
+  CF    Lukas Fischer                 ABL:63
+  RWB   Maximilian Schneider          ABL:64
+  LWB   Lukas Müller                  ABL:75
+  RW    Sebastian Müller              ABL:66
+
+=== Provence (Overall: 83) | Region: Europe ===
+  GK    Jean Rousseau                 ABL:76
+  CM    Antoine Rousseau              ABL:72
+  RB    Julien Lefèvre                ABL:61
+  CDM   Baptiste Girard               ABL:73
+  GK    Julien Bernard                ABL:58
+  CAM   Nicolas Rousseau              ABL:83
+  RM    Jean Bernard                  ABL:74
+  ST    Baptiste Rousseau             ABL:81
+  RWB   Antoine Bernard               ABL:83
+  CAM   Nicolas Fabre                 ABL:70
+  ST    Pierre Girard                 ABL:77
+  RWB   Antoine Dubois                ABL:69
+  LWB   Jean Lefèvre                  ABL:74
+  LM    Louis Lefèvre                 ABL:58
+  RB    Pierre Fabre                  ABL:72
+  LWB   Pierre Moreau                 ABL:57
+  RM    Jean Fabre                    ABL:63
+  RWB   Julien Dubois                 ABL:81
+  ST    Julien Girard                 ABL:61
+  ST    Antoine Moreau                ABL:68
+  RM    Nicolas Girard                ABL:74
+  LWB   Louis Girard                  ABL:68
+  LM    Pierre Lefèvre                ABL:58
+  LW    Baptiste Fabre                ABL:56
+
+=== Western Armenia (Overall: 82) | Region: Europe ===
+  LW    Vahan Avetisyan               ABL:74
+  RM    Tigran Manukyan               ABL:58
+  ST    Vardan Petrosyan              ABL:82
+  CDM   Armen Petrosyan               ABL:62
+  CM    Armen Ghazaryan               ABL:60
+  LB    Ashot Petrosyan               ABL:63
+  GK    Vardan Sargsyan               ABL:62
+  CB    Sasun Grigoryan               ABL:68
+  CDM   Vahan Ghazaryan               ABL:82
+  LWB   Armen Manukyan                ABL:61
+  CB    Ashot Sargsyan                ABL:82
+  LM    Vardan Manukyan               ABL:77
+  ST    Ashot Avetisyan               ABL:67
+  GK    Karen Ghazaryan               ABL:79
+  LWB   Armen Sargsyan                ABL:72
+  RW    Karen Grigoryan               ABL:61
+  CDM   Sasun Manukyan                ABL:68
+  RWB   Tigran Grigoryan              ABL:55
+  ST    Vahan Manukyan                ABL:81
+  RW    Ashot Grigoryan               ABL:59
+  CF    Sasun Sargsyan                ABL:74
+  RWB   Karen Avetisyan               ABL:76
+
+=== Raetia (Overall: 81) | Region: Europe ===
+  GK    Renato Rossini                ABL:60
+  LW    Renato Pellanda               ABL:77
+  ST    Gianni Bianchi                ABL:63
+  CM    Silvio Cattaneo               ABL:59
+  RM    Silvio Tettamanti             ABL:68
+  GK    Fabio Cattaneo                ABL:64
+  LB    Fabio Pellanda                ABL:57
+  LB    Fabio Bianchi                 ABL:74
+  LW    Mauro Rossini                 ABL:60
+  LB    Silvio Pellanda               ABL:70
+  LW    Livio Tettamanti              ABL:62
+  CF    Renato Tettamanti             ABL:74
+  CM    Mauro Bianchi                 ABL:57
+  LB    Aldo Bianchi                  ABL:63
+  RB    Aldo Tettamanti               ABL:72
+  CF    Renato Cattaneo               ABL:72
+  CB    Aldo Rusconi                  ABL:78
+  LM    Fabio Tettamanti              ABL:72
+  RWB   Gianni Pellanda               ABL:56
+  ST    Gianni Rusconi                ABL:69
+  CB    Fabio Rossini                 ABL:60
+  CF    Mauro Tettamanti              ABL:60
+  CDM   Mauro Pellanda                ABL:79
+  LM    Renato Bianchi                ABL:67
+  RM    Gianni Cattaneo               ABL:76
+
+=== Franconia (Overall: 83) | Region: Europe ===
+  LWB   Maximilian Weber              ABL:63
+  CM    Sebastian Weber               ABL:69
+  LW    Julian Weber                  ABL:66
+  GK    Lukas Schneider               ABL:59
+  LM    Julian Müller                 ABL:64
+  LB    Florian Müller                ABL:66
+  RB    Julian Becker                 ABL:68
+  ST    Lukas Meyer                   ABL:64
+  LWB   Florian Becker                ABL:71
+  GK    Tobias Weber                  ABL:56
+  RWB   Sebastian Müller              ABL:66
+  RM    Florian Schneider             ABL:64
+  RM    Tobias Schneider              ABL:55
+  CDM   Julian Wagner                 ABL:72
+  ST    Maximilian Wagner             ABL:71
+  LM    Florian Meyer                 ABL:65
+  LWB   Florian Fischer               ABL:56
+  GK    Tobias Meyer                  ABL:58
+  RWB   Sebastian Becker              ABL:70
+  LWB   Tobias Müller                 ABL:76
+  RW    Tobias Wagner                 ABL:78
+  LM    Sebastian Fischer             ABL:76
+  CAM   Julian Fischer                ABL:79
+  CM    Maximilian Becker             ABL:61
+  RB    Sebastian Schneider           ABL:56
+
+=== Veneto (Overall: 84) | Region: Europe ===
+  RM    Giuseppe Marino               ABL:80
+  GK    Riccardo Gallo                ABL:61
+  CF    Davide Giordano               ABL:59
+  CB    Giovanni Ferrari              ABL:57
+  ST    Luca Santoro                  ABL:83
+  CDM   Andrea Romano                 ABL:58
+  LWB   Roberto Romano                ABL:59
+  ST    Matteo Bruno                  ABL:79
+  LW    Stefano Gallo                 ABL:73
+  RW    Davide Mancini                ABL:68
+  LW    Giuseppe Bianchi              ABL:84
+  LB    Salvatore Santoro             ABL:64
+  GK    Alessandro Mancini            ABL:75
+  CB    Luca Conti                    ABL:60
+  CDM   Antonio Ricci                 ABL:66
+  CB    Matteo Ferrari                ABL:56
+  CM    Simone De Luca                ABL:60
+  CB    Fabio Giordano                ABL:76
+  LM    Antonio Gallo                 ABL:69
+  LB    Giovanni Gallo                ABL:78
+  CB    Giuseppe Gallo                ABL:84
+  ST    Vittorio Colombo              ABL:55
+  CM    Francesco Greco               ABL:68
+  GK    Matteo Mancini                ABL:83
+
+=== Britany (Overall: 80) | Region: Europe ===
+  CM    Jean Lefèvre                  ABL:60
+  ST    Julien Fabre                  ABL:77
+  RM    Julien Bernard                ABL:70
+  RM    Baptiste Rousseau             ABL:66
+  LB    Louis Lefèvre                 ABL:67
+  GK    Baptiste Fabre                ABL:68
+  CF    Louis Fabre                   ABL:71
+  CB    Pierre Bernard                ABL:60
+  ST    Jean Dubois                   ABL:75
+  RW    Pierre Fabre                  ABL:73
+  CB    Nicolas Rousseau              ABL:57
+  LW    Nicolas Bernard               ABL:76
+  LB    Baptiste Girard               ABL:72
+  GK    Pierre Lefèvre                ABL:75
+  CDM   Antoine Bernard               ABL:56
+  CDM   Louis Girard                  ABL:61
+  CB    Louis Dubois                  ABL:66
+  LB    Louis Rousseau                ABL:66
+  CDM   Nicolas Lefèvre               ABL:68
+  RWB   Nicolas Fabre                 ABL:55
+  LW    Antoine Fabre                 ABL:69
+  CDM   Louis Bernard                 ABL:58
+  LW    Julien Dubois                 ABL:72
+  CM    Baptiste Moreau               ABL:73
+
+=== Basque (Overall: 83) | Region: Europe ===
+  RWB   Jon Etxeberria                ABL:58
+  RW    Jon Zubizarreta               ABL:65
+  ST    Iker Arrieta                  ABL:73
+  ST    Mikel Goikoetxea              ABL:80
+  CAM   Iker Zubizarreta              ABL:64
+  CB    Unai Goikoetxea               ABL:82
+  GK    Iker Goikoetxea               ABL:73
+  CB    Xabier Goikoetxea             ABL:64
+  RM    Unai Zubizarreta              ABL:58
+  CF    Aitor Etxeberria              ABL:64
+  GK    Xabier Zubizarreta            ABL:63
+  LWB   Xabier Etxeberria             ABL:59
+  CAM   Iker Etxeberria               ABL:73
+  LW    Aitor Zubizarreta             ABL:67
+  LB    Unai Etxeberria               ABL:63
+  CDM   Unai Arrieta                  ABL:57
+  RW    Jon Arrieta                   ABL:60
+  CAM   Aitor Arrieta                 ABL:78
+  CDM   Xabier Arrieta                ABL:60
+  LWB   Mikel Larrañaga               ABL:55
+  LM    Jon Goikoetxea                ABL:80
+  CM    Aitor Goikoetxea              ABL:62
+  RWB   Iker Larrañaga                ABL:61
+
+=== Savoy (Overall: 81) | Region: Europe ===
+  LM    Jean Rousseau                 ABL:75
+  LWB   Baptiste Moreau               ABL:66
+  RB    Antoine Girard                ABL:67
+  LB    Nicolas Dubois                ABL:76
+  CDM   Nicolas Bernard               ABL:75
+  CF    Jean Bernard                  ABL:67
+  RM    Antoine Bernard               ABL:76
+  CB    Baptiste Rousseau             ABL:62
+  LM    Pierre Girard                 ABL:63
+  CAM   Pierre Moreau                 ABL:63
+  GK    Louis Girard                  ABL:69
+  LB    Jean Moreau                   ABL:80
+  CDM   Nicolas Girard                ABL:71
+  RM    Antoine Lefèvre               ABL:60
+  CB    Pierre Fabre                  ABL:55
+  RW    Baptiste Dubois               ABL:57
+  CDM   Julien Girard                 ABL:66
+  LB    Antoine Rousseau              ABL:62
+  LW    Pierre Bernard                ABL:77
+  RW    Baptiste Lefèvre              ABL:81
+  RW    Louis Fabre                   ABL:62
+  GK    Julien Dubois                 ABL:75
+  RB    Antoine Dubois                ABL:63
+  LWB   Nicolas Moreau                ABL:63
+  ST    Julien Fabre                  ABL:64
+
+=== Bavaria (Overall: 89) | Region: Europe ===
+  LB    Sebastian Schneider           ABL:82
+  RM    Tobias Müller                 ABL:59
+  CM    Lukas Meyer                   ABL:63
+  CDM   Maximilian Weber              ABL:57
+  CF    Sebastian Meyer               ABL:59
+  CB    Lukas Wagner                  ABL:83
+  LW    Julian Schneider              ABL:69
+  GK    Maximilian Fischer            ABL:61
+  LB    Lukas Fischer                 ABL:55
+  RM    Tobias Weber                  ABL:62
+  RW    Florian Wagner                ABL:83
+  CF    Maximilian Müller             ABL:76
+  RWB   Maximilian Meyer              ABL:62
+  CDM   Lukas Becker                  ABL:71
+  GK    Tobias Meyer                  ABL:70
+  RM    Lukas Weber                   ABL:72
+  CM    Tobias Schneider              ABL:55
+  CB    Sebastian Becker              ABL:68
+  ST    Sebastian Fischer             ABL:61
+  ST    Tobias Fischer                ABL:55
+  LWB   Sebastian Wagner              ABL:77
+  LM    Florian Becker                ABL:83
+  RM    Tobias Wagner                 ABL:65
+  RW    Julian Fischer                ABL:67
+  CB    Maximilian Becker             ABL:65
+
+=== Padania (Overall: 88) | Region: Europe ===
+  RM    Emanuele Bianchi              ABL:81
+  GK    Marco Rinaldi                 ABL:68
+  CF    Antonio Conti                 ABL:77
+  RB    Giovanni Ferrari              ABL:59
+  LW    Riccardo Rinaldi              ABL:59
+  ST    Andrea Barbieri               ABL:73
+  RM    Andrea Fontana                ABL:73
+  RB    Davide Marino                 ABL:80
+  CB    Enrico Mancini                ABL:76
+  CB    Marco Santoro                 ABL:63
+  LW    Giuseppe Ricci                ABL:65
+  RW    Francesco Ricci               ABL:87
+  CDM   Giovanni Russo                ABL:70
+  CDM   Roberto Greco                 ABL:76
+  CF    Stefano Costa                 ABL:59
+  LB    Matteo Greco                  ABL:57
+  LW    Riccardo Romano               ABL:88
+  LM    Salvatore Costa               ABL:57
+  CDM   Paolo Rossi                   ABL:76
+  RWB   Davide Mancini                ABL:80
+  CF    Giuseppe Costa                ABL:57
+  RW    Enrico Bianchi                ABL:62
+  GK    Giovanni Costa                ABL:56
+
+=== Occitania (Overall: 86) | Region: Europe ===
+  LM    Julien Moreau                 ABL:83
+  GK    Baptiste Bernard              ABL:76
+  CM    Antoine Bernard               ABL:85
+  CDM   Baptiste Rousseau             ABL:63
+  GK    Pierre Moreau                 ABL:68
+  ST    Jean Rousseau                 ABL:78
+  LM    Julien Rousseau               ABL:62
+  RB    Louis Moreau                  ABL:78
+  ST    Pierre Rousseau               ABL:56
+  CB    Julien Fabre                  ABL:58
+  CDM   Julien Lefèvre                ABL:59
+  LWB   Baptiste Lefèvre              ABL:73
+  CB    Julien Bernard                ABL:56
+  ST    Nicolas Girard                ABL:71
+  CM    Jean Girard                   ABL:81
+  CDM   Baptiste Dubois               ABL:79
+  LB    Baptiste Fabre                ABL:73
+  LW    Nicolas Dubois                ABL:84
+  RB    Louis Dubois                  ABL:73
+  RW    Jean Dubois                   ABL:78
+  RW    Julien Girard                 ABL:70
+  CAM   Jean Lefèvre                  ABL:61
+
+=== Wessex (Overall: 88) | Region: Europe ===
+  LB    Oliver Wilson                 ABL:84
+  CB    Oliver Taylor                 ABL:63
+  RWB   William Baker                 ABL:65
+  LM    Oliver Baker                  ABL:80
+  CB    Harry Hughes                  ABL:60
+  RWB   Charlie Smith                 ABL:68
+  CAM   Jack Taylor                   ABL:60
+  LB    Sam Brown                     ABL:55
+  RW    George Taylor                 ABL:69
+  CF    George Wilson                 ABL:87
+  CF    William Brown                 ABL:84
+  LM    Charlie Walker                ABL:77
+  CF    Charlie Taylor                ABL:73
+  LB    Thomas Clarke                 ABL:58
+  RW    Jack Hall                     ABL:75
+  GK    James Brown                   ABL:80
+  LM    Thomas Walker                 ABL:57
+  CM    Harry Turner                  ABL:72
+  RM    Thomas Smith                  ABL:70
+  GK    Charlie Wilson                ABL:71
+  LM    Harry Brown                   ABL:84
+  GK    Jack Brown                    ABL:59
+  CDM   Sam Walker                    ABL:66
+  CB    Harry Wilson                  ABL:71
+  CDM   Ben Turner                    ABL:65
+
+=== Valencia (Overall: 88) | Region: Europe ===
+  CF    Pol Bosch                     ABL:75
+  CDM   Pol Ferran                    ABL:60
+  LM    Oriol Roig                    ABL:78
+  LWB   Pau Bosch                     ABL:83
+  CDM   Pau Roig                      ABL:71
+  ST    Oriol Font                    ABL:64
+  LWB   Pol Puig                      ABL:88
+  CM    Pau Font                      ABL:63
+  CM    Jordi Font                    ABL:80
+  RB    Bernat Font                   ABL:72
+  GK    Marc Vidal                    ABL:73
+  GK    Bernat Puig                   ABL:65
+  CB    Marc Puig                     ABL:76
+  CB    Pol Roig                      ABL:69
+  CF    Pol Font                      ABL:82
+  RB    Jordi Roig                    ABL:63
+  RW    Bernat Roig                   ABL:59
+  CF    Jordi Bosch                   ABL:83
+  GK    Bernat Vidal                  ABL:57
+  CAM   Oriol Puig                    ABL:77
+  RM    Marc Ferran                   ABL:80
+  RWB   Oriol Vidal                   ABL:85
+  LW    Marc Font                     ABL:66
+  RM    Oriol Bosch                   ABL:79
+
+
+########## NORTH AMERICA ##########
+
+=== Kiskeya (Overall: 60) | Region: North America ===
+  CAM   Fritznel Joseph               ABL:58
+  ST    Emmanuel Charles              ABL:60
+  GK    Wilner Pierre-Louis           ABL:57
+  CB    Jean Pierre-Louis             ABL:55
+  CM    Yves Bien-Aimé                ABL:56
+  CM    Wilner Bien-Aimé              ABL:57
+  CDM   Yves Pierre-Louis             ABL:59
+  RW    Dieuseul Bien-Aimé            ABL:55
+  RB    Emmanuel Joseph               ABL:58
+  RW    Wilner Charles                ABL:59
+  CDM   Wilner Louis                  ABL:56
+  LB    Pierre Bien-Aimé              ABL:55
+  LB    Jean Joseph                   ABL:56
+  RB    Dieuseul Charles              ABL:58
+  CB    Emmanuel Bien-Aimé            ABL:59
+  CB    Yves Charles                  ABL:56
+  GK    Dieuseul Joseph               ABL:58
+  ST    Fritznel Alexis               ABL:60
+  CB    Wilner Alexis                 ABL:59
+  RW    Yves Louis                    ABL:60
+  LM    Jean Bien-Aimé                ABL:58
+  LM    Dieuseul Alexis               ABL:59
+  RM    Fritznel Pierre-Louis         ABL:56
+
+=== Guna (Overall: 63) | Region: North America ===
+  GK    Millaray Lienlaf              ABL:59
+  RB    Lonko Huenchumán              ABL:63
+  LB    Namuncura Curiñanco           ABL:60
+  CB    Quintré Colipí                ABL:55
+  RB    Lonko Lienlaf                 ABL:56
+  GK    Lonko Curiñanco               ABL:59
+  ST    Ñancú Curiñanco               ABL:58
+  RW    Quintré Painemal              ABL:59
+  ST    Lonko Nahuelpán               ABL:56
+  RM    Millaray Nahuelpán            ABL:58
+  RM    Painé Lienlaf                 ABL:63
+  CM    Quintré Lienlaf               ABL:58
+  CB    Painé Huenchumán              ABL:61
+  CF    Namuncura Huenchumán          ABL:57
+  CB    Painé Painemal                ABL:57
+  CDM   Namuncura Lienlaf             ABL:62
+  CB    Lonko Colipí                  ABL:55
+  LM    Ñancú Huenchumán              ABL:57
+  CF    Namuncura Nahuelpán           ABL:55
+  CM    Painé Colipí                  ABL:56
+  RM    Millaray Painemal             ABL:62
+  LM    Namuncura Colipí              ABL:58
+  RB    Quintré Huenchumán            ABL:60
+
+=== Bermuda (Overall: 65) | Region: North America ===
+  CDM   Jack Clarke                   ABL:59
+  CB    Charlie Brown                 ABL:55
+  ST    Sam Hall                      ABL:64
+  GK    Oliver Clarke                 ABL:62
+  CB    George Walker                 ABL:62
+  LM    James Taylor                  ABL:59
+  CM    George Brown                  ABL:61
+  CM    Oliver Walker                 ABL:58
+  CAM   Ben Smith                     ABL:61
+  LW    William Hughes                ABL:63
+  CDM   Charlie Baker                 ABL:64
+  LW    Ben Baker                     ABL:61
+  LW    Thomas Brown                  ABL:55
+  CB    William Hall                  ABL:58
+  GK    James Clarke                  ABL:55
+  LWB   Charlie Walker                ABL:60
+  CDM   Sam Wilson                    ABL:57
+  RWB   Harry Wilson                  ABL:65
+  CB    Oliver Hall                   ABL:61
+  CM    William Brown                 ABL:57
+  LW    William Baker                 ABL:64
+  RB    James Baker                   ABL:64
+
+=== Cree (Overall: 67) | Region: North America ===
+  LM    Wapasha Standing Bear         ABL:56
+  GK    Aiyana Wolfe                  ABL:56
+  ST    Mato Standing Bear            ABL:65
+  LB    Takoda Whitehorse             ABL:58
+  GK    Wapasha Whitehorse            ABL:59
+  CAM   Chayton Standing Bear         ABL:55
+  ST    Aiyana Eagleheart             ABL:65
+  LWB   Ohanko Redcloud               ABL:64
+  CM    Aiyana Longbow                ABL:64
+  CDM   Chayton Wolfe                 ABL:65
+  RB    Ohanko Bearclaw               ABL:64
+  CB    Aiyana Bearclaw               ABL:57
+  LM    Kaya Whitehorse               ABL:62
+  CF    Wapasha Wolfe                 ABL:59
+  RWB   Ohanko Wolfe                  ABL:66
+  RB    Wapasha Longbow               ABL:67
+  CF    Chayton Longbow               ABL:56
+  LW    Kaya Longbow                  ABL:55
+  LM    Takoda Wolfe                  ABL:60
+  RWB   Aiyana Whitehorse             ABL:59
+  LW    Chayton Eagleheart            ABL:61
+  ST    Chayton Bearclaw              ABL:62
+  RM    Aiyana Redcloud               ABL:63
+
+=== Ojibwe (Overall: 66) | Region: North America ===
+  LM    Aiyana Longbow                ABL:62
+  GK    Ohanko Longbow                ABL:59
+  CDM   Wapasha Redcloud              ABL:57
+  ST    Mato Standing Bear            ABL:61
+  CAM   Kaya Bearclaw                 ABL:61
+  LW    Aiyana Bearclaw               ABL:66
+  CAM   Kaya Wolfe                    ABL:56
+  LM    Wapasha Wolfe                 ABL:66
+  CB    Chayton Redcloud              ABL:55
+  RWB   Chayton Standing Bear         ABL:66
+  LWB   Mato Redcloud                 ABL:62
+  RW    Takoda Standing Bear          ABL:63
+  LB    Wapasha Whitehorse            ABL:62
+  CB    Mato Longbow                  ABL:62
+  CB    Aiyana Standing Bear          ABL:60
+  RB    Aiyana Whitehorse             ABL:66
+  CF    Aiyana Wolfe                  ABL:56
+  CF    Chayton Longbow               ABL:65
+  GK    Wapasha Eagleheart            ABL:62
+  CB    Wapasha Longbow               ABL:63
+  CDM   Chayton Bearclaw              ABL:64
+  CB    Chayton Wolfe                 ABL:65
+  LM    Aiyana Redcloud               ABL:65
+  CDM   Ohanko Eagleheart             ABL:56
+  CM    Takoda Eagleheart             ABL:64
+
+=== Blackfoot (Overall: 68) | Region: North America ===
+  CF    Takoda Bearclaw               ABL:67
+  RWB   Ohanko Longbow                ABL:62
+  RW    Wapasha Redcloud              ABL:58
+  LW    Chayton Bearclaw              ABL:59
+  ST    Mato Wolfe                    ABL:61
+  CDM   Chayton Redcloud              ABL:64
+  RM    Wapasha Standing Bear         ABL:64
+  RW    Takoda Eagleheart             ABL:56
+  GK    Wapasha Longbow               ABL:67
+  LB    Kaya Whitehorse               ABL:61
+  LB    Aiyana Eagleheart             ABL:58
+  RM    Chayton Standing Bear         ABL:63
+  CM    Kaya Longbow                  ABL:67
+  CM    Mato Eagleheart               ABL:58
+  ST    Takoda Longbow                ABL:65
+  RWB   Kaya Standing Bear            ABL:58
+  GK    Aiyana Longbow                ABL:57
+  CB    Takoda Wolfe                  ABL:57
+  RM    Aiyana Standing Bear          ABL:65
+  RB    Chayton Wolfe                 ABL:59
+  LW    Kaya Eagleheart               ABL:67
+  CAM   Ohanko Wolfe                  ABL:55
+  RW    Aiyana Bearclaw               ABL:55
+
+=== Wabanaki (Overall: 67) | Region: North America ===
+  CM    Chayton Standing Bear         ABL:66
+  CAM   Mato Standing Bear            ABL:59
+  GK    Ohanko Wolfe                  ABL:62
+  RW    Takoda Redcloud               ABL:67
+  RM    Kaya Redcloud                 ABL:59
+  RW    Mato Redcloud                 ABL:67
+  ST    Ohanko Bearclaw               ABL:64
+  CM    Chayton Eagleheart            ABL:63
+  LM    Ohanko Redcloud               ABL:56
+  CB    Takoda Longbow                ABL:63
+  RWB   Takoda Whitehorse             ABL:55
+  RW    Wapasha Wolfe                 ABL:66
+  CF    Chayton Whitehorse            ABL:61
+  RM    Takoda Standing Bear          ABL:55
+  CB    Takoda Bearclaw               ABL:67
+  CB    Takoda Eagleheart             ABL:61
+  CAM   Ohanko Standing Bear          ABL:62
+  GK    Aiyana Eagleheart             ABL:67
+  CF    Aiyana Bearclaw               ABL:66
+  LW    Wapasha Standing Bear         ABL:55
+  LW    Ohanko Eagleheart             ABL:66
+  LWB   Takoda Wolfe                  ABL:67
+  RB    Chayton Longbow               ABL:66
+
+=== Kuskatan (Overall: 68) | Region: North America ===
+  CDM   Itzel Cuahutli                ABL:63
+  CF    Cuauhtémoc Xicohtencatl       ABL:58
+  LWB   Yaotl Xicohtencatl            ABL:59
+  ST    Itzel Xicohtencatl            ABL:58
+  RM    Yaotl Tototl                  ABL:57
+  RB    Itzel Nahual                  ABL:61
+  LB    Citlali Cuahutli              ABL:62
+  CF    Cuauhtémoc Nahual             ABL:58
+  CB    Cuauhtémoc Tlacaelel          ABL:62
+  CF    Cuauhtémoc Tototl             ABL:64
+  CB    Citlali Nahual                ABL:66
+  RM    Tlaloc Xicohtencatl           ABL:67
+  CF    Xochitl Xicohtencatl          ABL:68
+  GK    Yaotl Nahual                  ABL:58
+  CF    Tlaloc Nahual                 ABL:68
+  CF    Itzel Tlacaelel               ABL:64
+  LWB   Yaotl Cuahutli                ABL:62
+  CAM   Itzel Tototl                  ABL:65
+  LB    Citlali Tototl                ABL:64
+  GK    Xochitl Tototl                ABL:61
+  LM    Xochitl Tlacaelel             ABL:56
+  CB    Cuauhtémoc Cuahutli           ABL:68
+  CDM   Tlaloc Cuahutli               ABL:57
+  CM    Xochitl Nahual                ABL:55
+  CAM   Tlaloc Tlacaelel              ABL:56
+
+=== Nunavut (Overall: 67) | Region: North America ===
+  CB    Ujarak Angnakak               ABL:62
+  CB    Ujarak Ittinuar               ABL:56
+  RB    Kanguq Qaunaq                 ABL:63
+  CB    Kanguq Angnakak               ABL:60
+  LM    Kanguq Kunuk                  ABL:66
+  LM    Ujarak Qaunaq                 ABL:57
+  CDM   Nukka Aariak                  ABL:67
+  CF    Nukka Angnakak                ABL:57
+  ST    Sila Kunuk                    ABL:55
+  CAM   Nukka Ittinuar                ABL:61
+  GK    Piita Aariak                  ABL:61
+  ST    Kanguq Ittinuar               ABL:59
+  ST    Kanguq Aariak                 ABL:67
+  ST    Piita Angnakak                ABL:66
+  GK    Aput Ittinuar                 ABL:67
+  CM    Aput Qaunaq                   ABL:66
+  CM    Nukka Kunuk                   ABL:64
+  LWB   Aput Angnakak                 ABL:64
+  LWB   Aput Aariak                   ABL:57
+  RW    Sila Angnakak                 ABL:57
+  LM    Piita Ittinuar                ABL:66
+  CB    Sila Aariak                   ABL:59
+
+=== Esperantujo (Overall: 74) | Region: North America ===
+  LW    Espero Espera                 ABL:57
+  CF    Frato Steleto                 ABL:61
+  CF    Paco Steleto                  ABL:71
+  CAM   Suno Espera                   ABL:65
+  CM    Espero Steleto                ABL:63
+  RW    Frato Verda                   ABL:56
+  RW    Karlo Steleto                 ABL:68
+  ST    Paco Ĉielo                    ABL:61
+  CAM   Suno Amikeco                  ABL:74
+  GK    Frato Espera                  ABL:74
+  CF    Suno Verda                    ABL:56
+  RW    Karlo Amikeco                 ABL:58
+  RM    Paco Verda                    ABL:56
+  GK    Frato Amikeco                 ABL:57
+  RB    Stelo Verda                   ABL:63
+  RB    Paco Espera                   ABL:67
+  CB    Suno Steleto                  ABL:58
+  CAM   Paco Amikeco                  ABL:66
+  RB    Karlo Ĉielo                   ABL:74
+  RM    Espero Amikeco                ABL:71
+  CB    Karlo Espera                  ABL:70
+  RWB   Karlo Verda                   ABL:60
+  CB    Suno Ĉielo                    ABL:55
+  RM    Stelo Ĉielo                   ABL:70
+  RW    Espero Verda                  ABL:73
+
+=== New England (Overall: 80) | Region: North America ===
+  CF    Brandon Martin                ABL:65
+  CF    Tyler Wilson                  ABL:79
+  ST    Cody Johnson                  ABL:75
+  CDM   Jake Thompson                 ABL:61
+  GK    Tyler Thompson                ABL:61
+  LB    Ryan Wilson                   ABL:72
+  CB    Dylan Wilson                  ABL:77
+  RM    Ryan Davis                    ABL:80
+  CB    Tyler Anderson                ABL:61
+  CF    Cody Martin                   ABL:62
+  LM    Jake Johnson                  ABL:55
+  LW    Brandon Thompson              ABL:58
+  RB    Cody Anderson                 ABL:80
+  CF    Dylan Johnson                 ABL:60
+  RWB   Tyler Davis                   ABL:55
+  CAM   Ryan Martin                   ABL:79
+  CAM   Austin Miller                 ABL:56
+  CM    Tyler Martin                  ABL:58
+  GK    Brandon Wilson                ABL:67
+  LM    Austin Anderson               ABL:59
+  LB    Austin Martin                 ABL:79
+  CAM   Austin Wilson                 ABL:72
+  LWB   Cody Miller                   ABL:58
+
+=== Nuhuatl (Overall: 75) | Region: North America ===
+  CB    Cuauhtémoc Nahual             ABL:73
+  RM    Cuauhtémoc Cuahutli           ABL:59
+  RW    Tlaloc Tototl                 ABL:70
+  RB    Citlali Tototl                ABL:62
+  CF    Xochitl Nahual                ABL:63
+  LB    Tlaloc Xicohtencatl           ABL:65
+  LB    Itzel Tototl                  ABL:74
+  LWB   Tlaloc Cuahutli               ABL:63
+  GK    Yaotl Tlacaelel               ABL:72
+  CF    Itzel Nahual                  ABL:70
+  RWB   Yaotl Cuahutli                ABL:58
+  CAM   Tlaloc Tlacaelel              ABL:55
+  CDM   Cuauhtémoc Tototl             ABL:58
+  ST    Cuauhtémoc Tlacaelel          ABL:69
+  CB    Xochitl Cuahutli              ABL:68
+  ST    Yaotl Tototl                  ABL:70
+  LB    Tlaloc Nahual                 ABL:55
+  LM    Itzel Cuahutli                ABL:68
+  RB    Itzel Xicohtencatl            ABL:71
+  LM    Cuauhtémoc Xicohtencatl       ABL:71
+  CDM   Citlali Xicohtencatl          ABL:71
+  RW    Yaotl Nahual                  ABL:55
+  LM    Xochitl Xicohtencatl          ABL:61
+  GK    Citlali Nahual                ABL:65
+  CAM   Citlali Tlacaelel             ABL:57
+
+=== Navajo (Overall: 74) | Region: North America ===
+  CM    Ahiga Nez                     ABL:73
+  GK    Hastiin Yazzie                ABL:74
+  CB    Nizhoni Yazzie                ABL:66
+  LB    Ahiga Tsosie                  ABL:71
+  CB    Hastiin Benally               ABL:74
+  RW    Doli Begay                    ABL:62
+  CM    Nizhoni Nez                   ABL:61
+  LM    Hastiin Tsosie                ABL:67
+  LW    Yiska Yazzie                  ABL:68
+  CDM   Nizhoni Tsosie                ABL:64
+  LB    Doli Yellowhair               ABL:70
+  GK    Doli Yazzie                   ABL:60
+  ST    Chaska Begay                  ABL:69
+  GK    Yiska Yellowhair              ABL:58
+  CF    Yiska Nez                     ABL:55
+  CB    Nizhoni Benally               ABL:71
+  RM    Ahiga Yellowhair              ABL:58
+  LW    Chaska Nez                    ABL:71
+  ST    Yiska Tsosie                  ABL:72
+  CB    Ahiga Begay                   ABL:60
+  CM    Doli Benally                  ABL:67
+  CF    Yiska Begay                   ABL:59
+
+=== Haudenosaunee (Overall: 76) | Region: North America ===
+  CAM   Aiyana Eagleheart             ABL:58
+  CDM   Chayton Bearclaw              ABL:59
+  LM    Wapasha Wolfe                 ABL:68
+  CB    Kaya Whitehorse               ABL:69
+  ST    Wapasha Eagleheart            ABL:62
+  LM    Ohanko Longbow                ABL:71
+  LB    Mato Wolfe                    ABL:56
+  GK    Aiyana Whitehorse             ABL:66
+  CDM   Aiyana Redcloud               ABL:74
+  LWB   Wapasha Bearclaw              ABL:58
+  LM    Takoda Eagleheart             ABL:57
+  RB    Kaya Bearclaw                 ABL:64
+  ST    Takoda Wolfe                  ABL:55
+  RWB   Aiyana Longbow                ABL:68
+  CAM   Chayton Eagleheart            ABL:63
+  CF    Kaya Eagleheart               ABL:71
+  LWB   Mato Longbow                  ABL:62
+  RB    Wapasha Longbow               ABL:56
+  CDM   Takoda Redcloud               ABL:68
+  GK    Chayton Whitehorse            ABL:71
+  CB    Wapasha Standing Bear         ABL:74
+  ST    Wapasha Whitehorse            ABL:63
+
+=== Cherokee (Overall: 75) | Region: North America ===
+  CB    Ohanko Redcloud               ABL:69
+  RB    Kaya Bearclaw                 ABL:62
+  CM    Chayton Wolfe                 ABL:61
+  CF    Kaya Redcloud                 ABL:64
+  CB    Aiyana Standing Bear          ABL:61
+  LM    Mato Wolfe                    ABL:69
+  LW    Chayton Bearclaw              ABL:74
+  CB    Takoda Redcloud               ABL:60
+  GK    Takoda Eagleheart             ABL:75
+  LB    Aiyana Longbow                ABL:74
+  RM    Ohanko Whitehorse             ABL:60
+  LM    Wapasha Standing Bear         ABL:55
+  RW    Wapasha Bearclaw              ABL:68
+  RB    Ohanko Eagleheart             ABL:70
+  RM    Ohanko Wolfe                  ABL:57
+  CAM   Mato Standing Bear            ABL:74
+  GK    Wapasha Eagleheart            ABL:55
+  CDM   Takoda Wolfe                  ABL:56
+  CF    Kaya Longbow                  ABL:67
+  LB    Ohanko Longbow                ABL:56
+  CF    Kaya Wolfe                    ABL:71
+  RW    Ohanko Standing Bear          ABL:58
+  RW    Chayton Longbow               ABL:63
+
+=== Yacutan (Overall: 76) | Region: North America ===
+  CDM   Kʼinich Chi                   ABL:69
+  RW    Kʼinich Canek                 ABL:72
+  LM    Sak Cocom                     ABL:59
+  CB    Bʼalam Cocom                  ABL:69
+  RWB   Ixchel Tzul                   ABL:57
+  CB    Chak Chi                      ABL:67
+  GK    Yax Balam                     ABL:62
+  CB    Sak Balam                     ABL:66
+  RW    Chak Tzul                     ABL:59
+  GK    Chak Canek                    ABL:72
+  CAM   Bʼalam Tzul                   ABL:62
+  CF    Sak Tzul                      ABL:60
+  RB    Bʼalam Chi                    ABL:58
+  LM    Sak Chi                       ABL:75
+  ST    Yax Tzul                      ABL:74
+  LW    Ixchel Chi                    ABL:63
+  CB    Kʼinich Pech                  ABL:64
+  CF    Ixchel Pech                   ABL:69
+  RM    Bʼalam Balam                  ABL:72
+  CF    Yax Pech                      ABL:60
+  CF    Yax Cocom                     ABL:57
+  CAM   Kʼinich Balam                 ABL:73
+
+=== Texas (Overall: 84) | Region: North America ===
+  CDM   Tyler Thompson                ABL:57
+  CF    Ryan Miller                   ABL:75
+  CF    Ryan Davis                    ABL:76
+  CB    Austin Anderson               ABL:55
+  CM    Brandon Anderson              ABL:57
+  CB    Brandon Miller                ABL:74
+  CDM   Cody Davis                    ABL:72
+  RB    Jake Johnson                  ABL:76
+  CDM   Jake Anderson                 ABL:71
+  LM    Cody Johnson                  ABL:74
+  LWB   Austin Miller                 ABL:78
+  CB    Tyler Davis                   ABL:56
+  GK    Ryan Johnson                  ABL:76
+  GK    Dylan Johnson                 ABL:73
+  CB    Jake Wilson                   ABL:67
+  RW    Brandon Thompson              ABL:58
+  CM    Brandon Martin                ABL:56
+  ST    Cody Thompson                 ABL:57
+  RB    Jake Martin                   ABL:81
+  RW    Dylan Thompson                ABL:75
+  GK    Dylan Davis                   ABL:76
+  CF    Cody Anderson                 ABL:69
+
+=== California (Overall: 85) | Region: North America ===
+  LW    Jake Johnson                  ABL:76
+  CB    Ryan Thompson                 ABL:82
+  CF    Austin Wilson                 ABL:55
+  GK    Cody Anderson                 ABL:57
+  LM    Cody Miller                   ABL:69
+  RWB   Tyler Martin                  ABL:73
+  RM    Dylan Wilson                  ABL:84
+  LM    Cody Martin                   ABL:78
+  GK    Jake Davis                    ABL:73
+  LM    Jake Martin                   ABL:71
+  LB    Dylan Miller                  ABL:83
+  LM    Dylan Davis                   ABL:82
+  RB    Ryan Johnson                  ABL:64
+  LB    Cody Davis                    ABL:68
+  CB    Ryan Wilson                   ABL:57
+  RM    Ryan Anderson                 ABL:70
+  CB    Austin Miller                 ABL:79
+  RB    Dylan Johnson                 ABL:64
+  CAM   Ryan Miller                   ABL:65
+  LW    Brandon Martin                ABL:73
+  RM    Brandon Anderson              ABL:62
+  LB    Austin Anderson               ABL:80
+  CDM   Austin Johnson                ABL:58
+  GK    Ryan Martin                   ABL:85
+  CF    Cody Thompson                 ABL:55
+
+=== Cascadia (Overall: 87) | Region: North America ===
+  CAM   Brandon Wilson                ABL:73
+  CB    Cody Thompson                 ABL:57
+  CB    Tyler Anderson                ABL:85
+  GK    Jake Thompson                 ABL:82
+  LW    Dylan Johnson                 ABL:57
+  CF    Cody Johnson                  ABL:55
+  ST    Austin Davis                  ABL:70
+  RWB   Dylan Davis                   ABL:76
+  LW    Jake Davis                    ABL:72
+  CF    Cody Miller                   ABL:80
+  CM    Dylan Thompson                ABL:62
+  CM    Ryan Anderson                 ABL:64
+  RM    Brandon Davis                 ABL:87
+  GK    Ryan Davis                    ABL:78
+  LB    Austin Johnson                ABL:78
+  RWB   Tyler Wilson                  ABL:65
+  CDM   Brandon Thompson              ABL:79
+  CB    Cody Martin                   ABL:57
+  CDM   Austin Anderson               ABL:58
+  CB    Dylan Miller                  ABL:70
+  CDM   Cody Anderson                 ABL:77
+  RWB   Brandon Johnson               ABL:66
+  CDM   Ryan Johnson                  ABL:58
+  CB    Jake Johnson                  ABL:80
+  LW    Tyler Martin                  ABL:71
+
+=== Quebec (Overall: 87) | Region: North America ===
+  CB    Olivier Tremblay              ABL:66
+  LWB   Gabriel Gagnon                ABL:78
+  CF    Olivier Bouchard              ABL:66
+  CDM   Olivier Gagnon                ABL:56
+  CM    Simon Tremblay                ABL:85
+  ST    Gabriel Roy                   ABL:81
+  GK    Olivier Roy                   ABL:87
+  RB    Mathieu Bouchard              ABL:87
+  CF    Étienne Gagnon                ABL:61
+  ST    Mathieu Gauthier              ABL:87
+  CDM   Mathieu Gagnon                ABL:72
+  CAM   Olivier Gauthier              ABL:63
+  ST    Gabriel Bouchard              ABL:58
+  GK    Simon Gauthier                ABL:76
+  CB    Étienne Roy                   ABL:58
+  RW    Félix Gagnon                  ABL:68
+  CM    Mathieu Roy                   ABL:75
+  LM    Gabriel Gauthier              ABL:69
+  LWB   Félix Tremblay                ABL:60
+  CM    Étienne Gauthier              ABL:84
+  RWB   Mathieu Côté                  ABL:62
+  GK    Mathieu Tremblay              ABL:67
+  CB    Félix Bouchard                ABL:60
+
+
+########## SOUTH AMERICA ##########
+
+=== Kawésqar (Overall: 63) | Region: South America ===
+  LW    Lonko Colipí                  ABL:63
+  ST    Millaray Nahuelpán            ABL:62
+  RB    Lonko Lienlaf                 ABL:55
+  CF    Painé Huenchumán              ABL:62
+  CAM   Quintré Curiñanco             ABL:62
+  CB    Painé Curiñanco               ABL:58
+  RWB   Ñancú Nahuelpán               ABL:59
+  LB    Quintré Colipí                ABL:56
+  CF    Ñancú Colipí                  ABL:59
+  GK    Painé Colipí                  ABL:57
+  CB    Ñancú Lienlaf                 ABL:58
+  LW    Namuncura Lienlaf             ABL:56
+  RW    Ñancú Huenchumán              ABL:55
+  RWB   Painé Nahuelpán               ABL:58
+  CF    Millaray Lienlaf              ABL:62
+  GK    Namuncura Huenchumán          ABL:58
+  GK    Quintré Lienlaf               ABL:57
+  CB    Painé Painemal                ABL:55
+  LM    Namuncura Painemal            ABL:62
+  CM    Quintré Huenchumán            ABL:56
+  CM    Namuncura Colipí              ABL:61
+  CB    Lonko Nahuelpán               ABL:58
+  LM    Millaray Painemal             ABL:59
+  CM    Quintré Painemal              ABL:63
+
+=== Juan Fernández Islands (Overall: 61) | Region: South America ===
+  CAM   Lucas Silva                   ABL:57
+  CB    João Pereira                  ABL:56
+  CF    Pedro Pereira                 ABL:57
+  RM    Rafael Pereira                ABL:60
+  RB    Bruno Costa                   ABL:60
+  CB    João Oliveira                 ABL:60
+  RWB   Rafael Costa                  ABL:61
+  RM    Pedro Silva                   ABL:56
+  LM    João Souza                    ABL:55
+  CB    Gustavo Silva                 ABL:57
+  RW    João Costa                    ABL:56
+  CAM   Bruno Silva                   ABL:56
+  CDM   Rafael Oliveira               ABL:59
+  ST    Gustavo Costa                 ABL:57
+  CDM   Pedro Oliveira                ABL:56
+  GK    Bruno Oliveira                ABL:60
+  RB    João Silva                    ABL:57
+  CB    Lucas Costa                   ABL:59
+  RW    Rafael Souza                  ABL:59
+  CF    João Santos                   ABL:60
+  CF    Rafael Santos                 ABL:56
+  GK    Bruno Souza                   ABL:56
+  GK    Lucas Santos                  ABL:58
+
+=== Falkland Islands (Overall: 60) | Region: South America ===
+  GK    Ben Wilson                    ABL:58
+  LWB   Charlie Smith                 ABL:56
+  RM    Thomas Taylor                 ABL:55
+  CDM   Oliver Walker                 ABL:58
+  CDM   William Hughes                ABL:60
+  CDM   Harry Hall                    ABL:55
+  ST    Ben Brown                     ABL:60
+  ST    George Taylor                 ABL:59
+  RWB   Sam Smith                     ABL:58
+  CB    Jack Wilson                   ABL:57
+  CB    Thomas Baker                  ABL:58
+  LM    William Baker                 ABL:58
+  CAM   Thomas Wilson                 ABL:55
+  GK    Oliver Brown                  ABL:59
+  LB    Harry Brown                   ABL:55
+  RW    Jack Hughes                   ABL:58
+  CB    William Turner                ABL:55
+  CAM   Ben Baker                     ABL:56
+  CF    Charlie Clarke                ABL:58
+  LM    Thomas Hall                   ABL:55
+  CAM   Oliver Baker                  ABL:56
+  CB    Harry Wilson                  ABL:57
+  LW    George Walker                 ABL:55
+  ST    Thomas Clarke                 ABL:56
+
+=== Santa Cruz (Overall: 63) | Region: South America ===
+  GK    Rafael Santos                 ABL:63
+  LB    João Costa                    ABL:61
+  ST    Gustavo Oliveira              ABL:61
+  RW    João Santos                   ABL:57
+  CB    Pedro Oliveira                ABL:61
+  GK    Gustavo Souza                 ABL:57
+  RM    Lucas Costa                   ABL:57
+  CM    João Souza                    ABL:60
+  LW    Bruno Santos                  ABL:60
+  CAM   Bruno Silva                   ABL:55
+  LWB   Rafael Oliveira               ABL:58
+  CAM   Pedro Pereira                 ABL:57
+  CF    Rafael Silva                  ABL:57
+  LM    Bruno Souza                   ABL:61
+  LWB   Rafael Souza                  ABL:61
+  RWB   João Silva                    ABL:63
+  RW    Pedro Costa                   ABL:60
+  RM    João Oliveira                 ABL:63
+  CB    Pedro Silva                   ABL:55
+  RWB   Bruno Costa                   ABL:58
+  CM    Lucas Oliveira                ABL:57
+  RWB   Gustavo Pereira               ABL:59
+  RM    Lucas Souza                   ABL:63
+  ST    Lucas Santos                  ABL:57
+
+=== Qulla (Overall: 69) | Region: South America ===
+  RWB   Quispe Condori                ABL:69
+  GK    Quispe Huanca                 ABL:65
+  CAM   Condori Condori               ABL:55
+  CB    Choque Condori                ABL:60
+  RWB   Condori Apaza                 ABL:63
+  ST    Apaza Mamani                  ABL:62
+  RWB   Huanca Huanca                 ABL:65
+  LW    Apaza Condori                 ABL:62
+  CAM   Huanca Choquehuanca           ABL:67
+  RM    Choque Quispe                 ABL:69
+  CAM   Condori Mamani                ABL:56
+  LW    Condori Quispe                ABL:59
+  ST    Choque Mamani                 ABL:57
+  RM    Quispe Mamani                 ABL:66
+  RB    Mamani Apaza                  ABL:57
+  RB    Mamani Huanca                 ABL:65
+  CB    Condori Choquehuanca          ABL:63
+  RM    Quispe Apaza                  ABL:62
+  LW    Mamani Mamani                 ABL:55
+  GK    Huanca Condori                ABL:61
+  RW    Apaza Choquehuanca            ABL:66
+  LM    Apaza Huanca                  ABL:62
+  RM    Apaza Quispe                  ABL:69
+  CDM   Quispe Quispe                 ABL:67
+  RWB   Mamani Condori                ABL:59
+
+=== Maule Sur (Overall: 70) | Region: South America ===
+  CB    Namuncura Colipí              ABL:59
+  GK    Millaray Lienlaf              ABL:69
+  RM    Lonko Lienlaf                 ABL:58
+  RWB   Ñancú Curiñanco               ABL:56
+  RW    Quintré Lienlaf               ABL:58
+  LW    Lonko Huenchumán              ABL:67
+  CF    Millaray Nahuelpán            ABL:69
+  CAM   Quintré Painemal              ABL:62
+  RW    Lonko Nahuelpán               ABL:55
+  ST    Painé Painemal                ABL:69
+  CDM   Ñancú Lienlaf                 ABL:57
+  RWB   Millaray Curiñanco            ABL:61
+  CM    Millaray Painemal             ABL:56
+  RWB   Ñancú Colipí                  ABL:67
+  CB    Painé Colipí                  ABL:66
+  GK    Lonko Colipí                  ABL:69
+  LWB   Millaray Huenchumán           ABL:61
+  RWB   Namuncura Lienlaf             ABL:68
+  ST    Quintré Nahuelpán             ABL:64
+  CB    Namuncura Painemal            ABL:65
+  CM    Namuncura Huenchumán          ABL:55
+  CDM   Lonko Curiñanco               ABL:60
+  ST    Ñancú Painemal                ABL:59
+  LB    Millaray Colipí               ABL:70
+  CM    Namuncura Nahuelpán           ABL:55
+
+=== Huilliche (Overall: 68) | Region: South America ===
+  CDM   Painé Colipí                  ABL:59
+  CF    Millaray Lienlaf              ABL:56
+  RWB   Millaray Nahuelpán            ABL:67
+  RB    Ñancú Nahuelpán               ABL:67
+  ST    Painé Painemal                ABL:67
+  CM    Quintré Painemal              ABL:60
+  GK    Lonko Lienlaf                 ABL:67
+  CM    Lonko Colipí                  ABL:65
+  ST    Ñancú Lienlaf                 ABL:60
+  RWB   Millaray Colipí               ABL:68
+  CB    Quintré Huenchumán            ABL:57
+  CDM   Lonko Curiñanco               ABL:61
+  LW    Lonko Nahuelpán               ABL:56
+  LM    Quintré Nahuelpán             ABL:63
+  RWB   Millaray Painemal             ABL:66
+  LB    Ñancú Painemal                ABL:66
+  GK    Painé Curiñanco               ABL:62
+  CF    Painé Huenchumán              ABL:68
+  LM    Namuncura Colipí              ABL:59
+  RWB   Ñancú Colipí                  ABL:57
+  CAM   Namuncura Painemal            ABL:63
+  CF    Painé Lienlaf                 ABL:68
+
+=== Atacama (Overall: 69) | Region: South America ===
+  CB    Quispe Quispe                 ABL:68
+  CB    Apaza Choquehuanca            ABL:64
+  LM    Mamani Huanca                 ABL:64
+  LW    Choque Mamani                 ABL:68
+  CDM   Apaza Mamani                  ABL:63
+  CB    Mamani Choquehuanca           ABL:58
+  LW    Huanca Mamani                 ABL:69
+  LB    Huanca Apaza                  ABL:60
+  LW    Huanca Huanca                 ABL:57
+  CDM   Condori Choquehuanca          ABL:56
+  LM    Mamani Condori                ABL:61
+  LM    Condori Quispe                ABL:63
+  RW    Mamani Apaza                  ABL:56
+  LW    Quispe Mamani                 ABL:62
+  CDM   Choque Huanca                 ABL:57
+  CF    Condori Condori               ABL:66
+  GK    Quispe Huanca                 ABL:66
+  CDM   Quispe Apaza                  ABL:56
+  CB    Condori Huanca                ABL:66
+  GK    Quispe Choquehuanca           ABL:68
+  CM    Apaza Apaza                   ABL:59
+  RWB   Choque Apaza                  ABL:65
+
+=== Pehuenche (Overall: 67) | Region: South America ===
+  RB    Namuncura Nahuelpán           ABL:65
+  CF    Quintré Huenchumán            ABL:56
+  GK    Ñancú Huenchumán              ABL:56
+  CM    Namuncura Lienlaf             ABL:55
+  GK    Quintré Curiñanco             ABL:64
+  RWB   Ñancú Colipí                  ABL:57
+  RW    Lonko Painemal                ABL:64
+  RB    Painé Huenchumán              ABL:65
+  CB    Millaray Curiñanco            ABL:67
+  CDM   Lonko Lienlaf                 ABL:62
+  RM    Namuncura Painemal            ABL:59
+  RB    Millaray Colipí               ABL:67
+  CDM   Millaray Painemal             ABL:55
+  CDM   Painé Curiñanco               ABL:56
+  LW    Namuncura Curiñanco           ABL:60
+  CM    Namuncura Huenchumán          ABL:55
+  LM    Quintré Painemal              ABL:65
+  ST    Painé Painemal                ABL:65
+  RW    Millaray Lienlaf              ABL:63
+  ST    Lonko Curiñanco               ABL:64
+  RWB   Lonko Colipí                  ABL:55
+  CDM   Painé Nahuelpán               ABL:60
+  LM    Millaray Huenchumán           ABL:67
+  LWB   Namuncura Colipí              ABL:60
+
+=== Rapa Nui (Overall: 68) | Region: South America ===
+  ST    Rapu Pakarati                 ABL:63
+  CB    Mahani Rapu                   ABL:56
+  RWB   Petero Pakarati               ABL:56
+  RM    Nicolás Hito                  ABL:57
+  RM    Enrique Rapu                  ABL:65
+  CB    Nicolás Tuki                  ABL:61
+  LWB   Petero Rapu                   ABL:58
+  CDM   Enrique Hito                  ABL:65
+  RW    Rapu Hito                     ABL:55
+  LM    Enrique Pakarati              ABL:61
+  CDM   Nicolás Teave                 ABL:62
+  CF    Enrique Teave                 ABL:67
+  CAM   Mahani Pakarati               ABL:60
+  GK    Petero Hito                   ABL:68
+  CDM   Mahani Tuki                   ABL:60
+  RWB   Rapu Rapu                     ABL:61
+  RW    Rapu Teave                    ABL:66
+  RB    Petero Teave                  ABL:56
+  CDM   Nicolás Rapu                  ABL:59
+  RW    Nicolás Pakarati              ABL:59
+  RW    Mahani Teave                  ABL:60
+  LM    Enrique Tuki                  ABL:68
+  GK    Petero Tuki                   ABL:65
+  CB    Mahani Hito                   ABL:57
+
+=== Quechuan (Overall: 76) | Region: South America ===
+  CAM   Huanca Condori                ABL:59
+  CDM   Huanca Choquehuanca           ABL:59
+  CB    Mamani Huanca                 ABL:64
+  CB    Condori Condori               ABL:75
+  ST    Mamani Mamani                 ABL:61
+  ST    Apaza Condori                 ABL:59
+  GK    Apaza Mamani                  ABL:63
+  CDM   Quispe Choquehuanca           ABL:71
+  CAM   Huanca Huanca                 ABL:67
+  CM    Condori Huanca                ABL:60
+  LB    Condori Apaza                 ABL:75
+  RB    Condori Quispe                ABL:70
+  GK    Condori Mamani                ABL:76
+  LM    Choque Condori                ABL:62
+  ST    Quispe Quispe                 ABL:62
+  RW    Mamani Condori                ABL:74
+  RWB   Huanca Mamani                 ABL:75
+  GK    Apaza Choquehuanca            ABL:55
+  CF    Mamani Choquehuanca           ABL:61
+  ST    Choque Apaza                  ABL:75
+  RB    Quispe Huanca                 ABL:72
+  LM    Choque Mamani                 ABL:69
+
+=== Aymara (Overall: 75) | Region: South America ===
+  RW    Condori Choquehuanca          ABL:66
+  CM    Quispe Huanca                 ABL:65
+  RWB   Choque Mamani                 ABL:65
+  CB    Choque Apaza                  ABL:56
+  GK    Huanca Quispe                 ABL:68
+  RWB   Choque Huanca                 ABL:67
+  RW    Apaza Choquehuanca            ABL:71
+  LW    Mamani Quispe                 ABL:58
+  CM    Choque Condori                ABL:62
+  CAM   Condori Apaza                 ABL:68
+  CDM   Apaza Apaza                   ABL:59
+  CF    Quispe Quispe                 ABL:65
+  CM    Huanca Huanca                 ABL:66
+  RB    Huanca Mamani                 ABL:70
+  LB    Apaza Quispe                  ABL:59
+  RM    Mamani Huanca                 ABL:59
+  CDM   Huanca Apaza                  ABL:64
+  CB    Apaza Mamani                  ABL:62
+  CDM   Mamani Condori                ABL:60
+  CAM   Huanca Choquehuanca           ABL:64
+  RB    Quispe Choquehuanca           ABL:69
+  RWB   Apaza Huanca                  ABL:73
+  RW    Quispe Apaza                  ABL:66
+  GK    Choque Choquehuanca           ABL:67
+
+=== Mapuche (Overall: 80) | Region: South America ===
+  LM    Quintré Colipí                ABL:59
+  LWB   Ñancú Lienlaf                 ABL:67
+  LM    Painé Colipí                  ABL:56
+  CF    Millaray Huenchumán           ABL:58
+  LW    Millaray Lienlaf              ABL:63
+  ST    Millaray Painemal             ABL:55
+  LM    Lonko Nahuelpán               ABL:65
+  CDM   Quintré Curiñanco             ABL:80
+  GK    Quintré Nahuelpán             ABL:76
+  CF    Namuncura Curiñanco           ABL:70
+  ST    Quintré Huenchumán            ABL:60
+  CDM   Namuncura Painemal            ABL:75
+  LM    Ñancú Painemal                ABL:80
+  RWB   Painé Nahuelpán               ABL:76
+  CDM   Quintré Painemal              ABL:59
+  CAM   Painé Curiñanco               ABL:71
+  RWB   Painé Painemal                ABL:60
+  LW    Quintré Lienlaf               ABL:79
+  RB    Namuncura Lienlaf             ABL:66
+  LWB   Namuncura Huenchumán          ABL:79
+  GK    Lonko Curiñanco               ABL:55
+  CB    Ñancú Colipí                  ABL:67
+  RWB   Ñancú Nahuelpán               ABL:62
+  LB    Ñancú Huenchumán              ABL:66
+  RM    Lonko Painemal                ABL:74
+
+=== Acre (Overall: 79) | Region: South America ===
+  ST    Pedro Silva                   ABL:68
+  GK    Rafael Oliveira               ABL:65
+  LW    Gustavo Oliveira              ABL:70
+  CF    Bruno Souza                   ABL:56
+  RB    Lucas Silva                   ABL:59
+  GK    Gustavo Santos                ABL:62
+  CM    Pedro Souza                   ABL:59
+  RW    João Costa                    ABL:72
+  CF    Rafael Costa                  ABL:67
+  LW    Rafael Pereira                ABL:65
+  LM    Pedro Santos                  ABL:74
+  RM    João Oliveira                 ABL:56
+  LWB   Rafael Souza                  ABL:68
+  CB    Rafael Silva                  ABL:65
+  CDM   Lucas Santos                  ABL:70
+  CAM   Pedro Oliveira                ABL:62
+  RM    Gustavo Souza                 ABL:57
+  LW    João Silva                    ABL:57
+  CB    Bruno Silva                   ABL:59
+  RB    Bruno Costa                   ABL:59
+  RW    Rafael Santos                 ABL:56
+  CB    Lucas Costa                   ABL:76
+
+=== São Paulo (Overall: 89) | Region: South America ===
+  CF    Lucas Costa                   ABL:88
+  LM    Bruno Pereira                 ABL:88
+  CB    Gustavo Pereira               ABL:76
+  RW    Rafael Santos                 ABL:89
+  ST    Pedro Souza                   ABL:82
+  LB    Pedro Pereira                 ABL:83
+  CB    Lucas Oliveira                ABL:71
+  CM    Gustavo Santos                ABL:56
+  CB    Lucas Souza                   ABL:89
+  GK    Rafael Silva                  ABL:62
+  RW    Bruno Santos                  ABL:58
+  CDM   Pedro Costa                   ABL:89
+  CB    João Pereira                  ABL:85
+  RM    Rafael Costa                  ABL:63
+  CDM   Pedro Santos                  ABL:70
+  ST    João Santos                   ABL:89
+  GK    Gustavo Silva                 ABL:76
+  LM    João Oliveira                 ABL:71
+  LW    Lucas Pereira                 ABL:63
+  GK    Pedro Silva                   ABL:82
+  CM    Bruno Costa                   ABL:60
+  CDM   Gustavo Souza                 ABL:59
+  CB    João Costa                    ABL:75
+
+
+########## AFRICA ##########
+
+=== Chagos Islands (Overall: 60) | Region: Africa ===
+  CM    Jordan Marsh                  ABL:58
+  CF    Chris Vance                   ABL:60
+  CB    Robin Bello                   ABL:60
+  CDM   Noah Reyes                    ABL:56
+  CM    Sam Vance                     ABL:59
+  ST    Robin Cole                    ABL:59
+  RWB   Sam Silva                     ABL:59
+  RW    Chris Adler                   ABL:59
+  CF    Noah Cole                     ABL:60
+  RB    Jordan Vance                  ABL:55
+  GK    Noah Silva                    ABL:58
+  LWB   Chris Bello                   ABL:58
+  CAM   Alex Vance                    ABL:60
+  LM    Taylor Silva                  ABL:58
+  ST    Jordan Cole                   ABL:55
+  GK    Kim Adler                     ABL:60
+  RB    Alex Kane                     ABL:58
+  LM    Chris Marsh                   ABL:60
+  LWB   Kim Vance                     ABL:58
+  GK    Kim Cole                      ABL:60
+  RW    Sam Marsh                     ABL:59
+  LW    Kim Marsh                     ABL:60
+  LB    Jordan Silva                  ABL:55
+  CB    Taylor Vance                  ABL:60
+
+=== Ni-Wakati Sports FC (Overall: 61) | Region: Africa ===
+  GK    Alex Marsh                    ABL:60
+  LW    Kim Vance                     ABL:55
+  LW    Robin Bello                   ABL:61
+  RM    Kim Marsh                     ABL:57
+  CF    Noah Reyes                    ABL:61
+  CB    Jordan Kane                   ABL:61
+  CDM   Chris Vance                   ABL:55
+  GK    Kim Bello                     ABL:59
+  LW    Chris Bello                   ABL:56
+  CB    Taylor Reyes                  ABL:57
+  LB    Sam Vance                     ABL:61
+  CM    Robin Cole                    ABL:59
+  LM    Jordan Silva                  ABL:57
+  CF    Kim Silva                     ABL:61
+  RW    Sam Reyes                     ABL:61
+  CB    Jordan Vance                  ABL:56
+  LW    Robin Kane                    ABL:55
+  RWB   Jordan Reyes                  ABL:60
+  CM    Kim Reyes                     ABL:59
+  RB    Taylor Adler                  ABL:59
+  GK    Noah Vance                    ABL:55
+  CB    Noah Adler                    ABL:56
+  CDM   Robin Adler                   ABL:58
+  LB    Alex Reyes                    ABL:60
+  CDM   Chris Silva                   ABL:57
+
+=== Maasai (Overall: 63) | Region: Africa ===
+  GK    Boubacar Sow                  ABL:59
+  LW    Boubacar Nkoitiko             ABL:55
+  CAM   Diallo Diallo                 ABL:57
+  CB    Ole Sankale Sankale           ABL:63
+  RW    Lekishon Lekishon             ABL:58
+  RW    Boubacar Barry                ABL:59
+  LW    Mokompo Nkoitiko              ABL:61
+  LWB   Ole Sankale Nkoitiko          ABL:61
+  LW    Amadou Barry                  ABL:58
+  LM    Diallo Lekishon               ABL:59
+  LM    Diallo Sankale                ABL:55
+  CAM   Ole Sankale Diallo            ABL:61
+  CAM   Amadou Sankale                ABL:55
+  CF    Amadou Sow                    ABL:60
+  LWB   Boubacar Sankale              ABL:63
+  CM    Ole Sankale Lekishon          ABL:58
+  RW    Diallo Barry                  ABL:62
+  CB    Mokompo Sankale               ABL:56
+  GK    Diallo Nkoitiko               ABL:63
+  LW    Lekishon Barry                ABL:57
+  LB    Lekishon Sow                  ABL:56
+  RB    Lekishon Sankale              ABL:60
+  LW    Boubacar Diallo               ABL:60
+  RB    Ole Sankale Sow               ABL:59
+  LM    Amadou Diallo                 ABL:58
+
+=== Peule (Overall: 61) | Region: Africa ===
+  ST    Mokompo Diallo                ABL:58
+  LM    Ole Sankale Sow               ABL:59
+  LW    Lekishon Barry                ABL:59
+  CAM   Lekishon Sow                  ABL:58
+  LW    Lekishon Lekishon             ABL:57
+  CF    Mokompo Nkoitiko              ABL:58
+  RW    Lekishon Sankale              ABL:56
+  LW    Amadou Nkoitiko               ABL:58
+  GK    Ole Sankale Nkoitiko          ABL:57
+  GK    Diallo Diallo                 ABL:59
+  RWB   Boubacar Lekishon             ABL:58
+  CDM   Ole Sankale Lekishon          ABL:57
+  CM    Ole Sankale Diallo            ABL:57
+  ST    Boubacar Diallo               ABL:61
+  RB    Diallo Barry                  ABL:56
+  CDM   Boubacar Sow                  ABL:56
+  LWB   Lekishon Diallo               ABL:57
+  GK    Mokompo Sow                   ABL:60
+  RWB   Mokompo Sankale               ABL:59
+  CB    Amadou Sow                    ABL:56
+  CB    Diallo Sankale                ABL:61
+  CM    Amadou Lekishon               ABL:60
+  CAM   Mokompo Lekishon              ABL:57
+  LWB   Diallo Lekishon               ABL:60
+
+=== Rif (Overall: 64) | Region: Africa ===
+  CAM   Massinissa Belkacem           ABL:58
+  LW    Karim Ferhat                  ABL:59
+  LWB   Amazigh Zerrouki              ABL:61
+  LW    Amazigh Ferhat                ABL:55
+  LW    Karim Belkacem                ABL:58
+  RWB   Mounir Belkacem               ABL:60
+  CDM   Idir Ait Ahmed                ABL:55
+  GK    Mounir Ait Ahmed              ABL:56
+  LW    Karim Zerrouki                ABL:62
+  RWB   Karim Ait Ahmed               ABL:56
+  CAM   Idir Belkacem                 ABL:59
+  CF    Amazigh Belkacem              ABL:55
+  LW    Massinissa Ferhat             ABL:55
+  CF    Amazigh Ouyahia               ABL:60
+  CDM   Yacine Zerrouki               ABL:56
+  CF    Massinissa Ait Ahmed          ABL:55
+  LM    Idir Zerrouki                 ABL:57
+  CM    Yacine Amrouche               ABL:59
+  GK    Yacine Belkacem               ABL:62
+  CB    Idir Amrouche                 ABL:61
+  CB    Amazigh Amrouche              ABL:55
+  RM    Mounir Zerrouki               ABL:57
+  LWB   Yacine Ait Ahmed              ABL:56
+  LW    Amazigh Ait Ahmed             ABL:63
+  CB    Mounir Amrouche               ABL:64
+
+=== Barotseland (Overall: 66) | Region: Africa ===
+  CM    Nkosi Moyo                    ABL:55
+  ST    Nkosi Khumalo                 ABL:61
+  CDM   Themba Khumalo                ABL:66
+  GK    Sipho Mahlangu                ABL:64
+  CDM   Sipho Khumalo                 ABL:60
+  GK    Nkosi Ndlovu                  ABL:64
+  CAM   Lindiwe Sithole               ABL:61
+  CDM   Themba Moyo                   ABL:56
+  CB    Thabo Moyo                    ABL:63
+  CB    Nkosi Sithole                 ABL:65
+  CDM   Lindiwe Moyo                  ABL:58
+  CF    Bongani Sithole               ABL:59
+  CB    Lindiwe Khumalo               ABL:62
+  LWB   Thabo Khumalo                 ABL:57
+  RWB   Bongani Dube                  ABL:65
+  LB    Thabo Sithole                 ABL:59
+  CF    Lindiwe Mahlangu              ABL:65
+  RM    Themba Dube                   ABL:66
+  CB    Thabo Dube                    ABL:61
+  LW    Nkosi Mahlangu                ABL:64
+  LW    Themba Sithole                ABL:58
+  CF    Sipho Dube                    ABL:58
+  CF    Bongani Khumalo               ABL:61
+  CAM   Bongani Mahlangu              ABL:55
+  CAM   Nkosi Dube                    ABL:55
+
+=== Katanga (Overall: 65) | Region: Africa ===
+  RWB   Kabongo Tshibangu             ABL:63
+  LM    Tshimanga Kasongo             ABL:65
+  CB    Mbala Tshibangu               ABL:57
+  CM    Ilunga Kasongo                ABL:60
+  GK    Ilunga Kalonji                ABL:65
+  CB    Mukendi Kalonji               ABL:65
+  RM    Kabongo Mwamba                ABL:59
+  RB    Mukendi Kasongo               ABL:59
+  CDM   Mukendi Mwamba                ABL:62
+  CB    Tshimanga Kalonji             ABL:61
+  LM    Ilunga Tshibangu              ABL:56
+  CAM   Mbala Mwamba                  ABL:62
+  GK    Kabongo Kasongo               ABL:62
+  CF    Tshimanga Tshibangu           ABL:61
+  LW    Ilunga Ngoyi                  ABL:56
+  CDM   Mukendi Ngoyi                 ABL:60
+  ST    Tshimanga Mwamba              ABL:55
+  CAM   Mbala Ngoyi                   ABL:65
+  LW    Mbala Kalonji                 ABL:61
+  LB    Ilunga Mwamba                 ABL:61
+  RWB   Tshimanga Ngoyi               ABL:58
+  CM    Kabongo Kalonji               ABL:63
+  CB    Mbala Kasongo                 ABL:58
+  CB    Kabongo Ngoyi                 ABL:55
+
+=== Darfur (Overall: 65) | Region: Africa ===
+  RWB   Youssef Cherkaoui             ABL:59
+  LM    Omar Haddad                   ABL:61
+  RM    Ahmed Haddad                  ABL:62
+  ST    Ahmed Cherkaoui               ABL:65
+  LW    Hamza Zaidi                   ABL:55
+  LWB   Ahmed Bouazizi                ABL:55
+  CDM   Mohammed Zaidi                ABL:59
+  GK    Ahmed Slaoui                  ABL:62
+  LWB   Karim El Amrani               ABL:62
+  GK    Youssef Slaoui                ABL:63
+  RW    Karim Zaidi                   ABL:62
+  RW    Mohammed Slaoui               ABL:57
+  RWB   Mohammed Haddad               ABL:56
+  CDM   Hamza Cherkaoui               ABL:59
+  RM    Omar Slaoui                   ABL:64
+  RW    Mohammed Cherkaoui            ABL:64
+  LB    Ahmed Zaidi                   ABL:56
+  RWB   Hamza El Amrani               ABL:60
+  CAM   Hamza Slaoui                  ABL:56
+  CAM   Karim Haddad                  ABL:64
+  CF    Ahmed El Amrani               ABL:56
+  ST    Karim Slaoui                  ABL:65
+
+=== Casamance (Overall: 67) | Region: Africa ===
+  RM    Chidi Chukwu                  ABL:59
+  LB    Segun Balogun                 ABL:61
+  RWB   Chukwuemeka Mensah            ABL:61
+  CDM   Kwame Nwosu                   ABL:64
+  LWB   Olamide Chukwu                ABL:65
+  CF    Chidi Okafor                  ABL:55
+  CDM   Segun Nwosu                   ABL:62
+  CF    Tunde Adeyemi                 ABL:65
+  ST    Tunde Okonkwo                 ABL:57
+  CAM   Chidi Balogun                 ABL:65
+  CM    Tunde Balogun                 ABL:56
+  LW    Ifeanyi Chukwu                ABL:61
+  RWB   Chidi Nwosu                   ABL:57
+  CAM   Olamide Okonkwo               ABL:59
+  GK    Kwame Adeyemi                 ABL:63
+  CB    Segun Okafor                  ABL:63
+  RB    Chukwuemeka Okafor            ABL:63
+  CDM   Chukwuemeka Balogun           ABL:61
+  RW    Chidi Okonkwo                 ABL:66
+  LB    Segun Mensah                  ABL:59
+  CB    Ifeanyi Nwosu                 ABL:64
+  GK    Chukwuemeka Okonkwo           ABL:65
+  LWB   Chidi Adeyemi                 ABL:67
+  CM    Olamide Mensah                ABL:61
+  RW    Segun Okonkwo                 ABL:62
+
+=== Agadez (Overall: 66) | Region: Africa ===
+  GK    Ibrahim Ag Rhaly              ABL:57
+  LB    Moussa Ag Bibi                ABL:65
+  CAM   Abba Ag Alassane              ABL:56
+  ST    Moussa Ag Mohamed             ABL:61
+  LWB   Alassane Ag Bibi              ABL:56
+  RW    Alassane Wallet Sidi          ABL:57
+  RW    Alassane Ag Mohamed           ABL:64
+  CB    Ibrahim Ag Bibi               ABL:61
+  CM    Ibrahim Ag Mohamed            ABL:55
+  RM    Moussa Ag Alassane            ABL:56
+  ST    Oumar Ag Alassane             ABL:65
+  LW    Abba Ag Mohamed               ABL:55
+  GK    Ibrahim Wallet Sidi           ABL:66
+  CF    Oumar Ag Mohamed              ABL:58
+  GK    Abba Ag Bibi                  ABL:57
+  CAM   Oumar Ag Rhaly                ABL:62
+  CAM   Alassane Ag Rhaly             ABL:65
+  RWB   Bilal Ag Alassane             ABL:60
+  CDM   Ibrahim Ag Alassane           ABL:56
+  LB    Bilal Wallet Sidi             ABL:60
+  CM    Moussa Ag Rhaly               ABL:64
+  CF    Bilal Ag Rhaly                ABL:59
+  ST    Alassane Ag Alassane          ABL:60
+  CB    Bilal Ag Bibi                 ABL:56
+
+=== Kabylie (Overall: 80) | Region: Africa ===
+  RWB   Karim Ait Ahmed               ABL:79
+  GK    Yacine Ait Ahmed              ABL:79
+  GK    Idir Amrouche                 ABL:64
+  RM    Karim Ouyahia                 ABL:59
+  CAM   Karim Amrouche                ABL:73
+  CB    Amazigh Ait Ahmed             ABL:79
+  CM    Yacine Ferhat                 ABL:67
+  LW    Mounir Ait Ahmed              ABL:69
+  ST    Karim Belkacem                ABL:56
+  ST    Massinissa Ait Ahmed          ABL:63
+  RW    Amazigh Amrouche              ABL:58
+  RW    Yacine Zerrouki               ABL:65
+  CM    Mounir Amrouche               ABL:76
+  LB    Karim Zerrouki                ABL:77
+  LB    Massinissa Zerrouki           ABL:61
+  RB    Karim Ferhat                  ABL:72
+  RB    Mounir Belkacem               ABL:59
+  LM    Idir Zerrouki                 ABL:75
+  RM    Idir Ouyahia                  ABL:75
+  RB    Amazigh Zerrouki              ABL:55
+  CM    Yacine Amrouche               ABL:77
+  CAM   Idir Ait Ahmed                ABL:57
+  CF    Massinissa Ferhat             ABL:74
+  ST    Massinissa Amrouche           ABL:58
+  RM    Idir Ferhat                   ABL:58
+
+=== Barawa (Overall: 72) | Region: Africa ===
+  CB    Xasan Nuur                    ABL:64
+  LM    Yusuf Diriye                  ABL:66
+  LB    Cabdi Cabdullahi              ABL:69
+  LM    Maxamed Diriye                ABL:60
+  RW    Maxamed Nuur                  ABL:71
+  LWB   Cabdi Ismail                  ABL:71
+  GK    Yusuf Nuur                    ABL:57
+  RB    Cabdi Warsame                 ABL:66
+  RW    Faarax Nuur                   ABL:65
+  RM    Yusuf Warsame                 ABL:63
+  RB    Faarax Ismail                 ABL:67
+  GK    Xasan Cabdullahi              ABL:67
+  RW    Faarax Warsame                ABL:71
+  CM    Maxamed Warsame               ABL:65
+  RB    Cali Nuur                     ABL:66
+  RM    Xasan Diriye                  ABL:60
+  CB    Cabdi Diriye                  ABL:58
+  CAM   Yusuf Cabdullahi              ABL:65
+  CF    Xasan Warsame                 ABL:67
+  CDM   Yusuf Ismail                  ABL:55
+  CB    Cali Warsame                  ABL:61
+  RW    Maxamed Cabdullahi            ABL:69
+  RW    Cali Diriye                   ABL:58
+  CB    Xasan Ismail                  ABL:60
+  CDM   Cabdi Nuur                    ABL:70
+
+=== Biafra (Overall: 73) | Region: Africa ===
+  LW    Olamide Nwosu                 ABL:56
+  CB    Olamide Adeyemi               ABL:72
+  CB    Kwame Okonkwo                 ABL:65
+  CM    Chukwuemeka Adeyemi           ABL:70
+  CDM   Chukwuemeka Mensah            ABL:73
+  RW    Segun Okonkwo                 ABL:56
+  RM    Ifeanyi Okafor                ABL:68
+  RB    Segun Okafor                  ABL:72
+  LM    Chidi Adeyemi                 ABL:63
+  CAM   Tunde Okafor                  ABL:58
+  GK    Chukwuemeka Chukwu            ABL:71
+  ST    Olamide Okonkwo               ABL:66
+  GK    Chidi Chukwu                  ABL:64
+  CDM   Kwame Mensah                  ABL:62
+  RWB   Chukwuemeka Okafor            ABL:55
+  CDM   Kwame Adeyemi                 ABL:72
+  RB    Segun Mensah                  ABL:67
+  ST    Tunde Okonkwo                 ABL:55
+  LWB   Segun Chukwu                  ABL:56
+  RB    Chidi Mensah                  ABL:67
+  CB    Tunde Adeyemi                 ABL:68
+  CM    Tunde Chukwu                  ABL:72
+  RM    Olamide Okafor                ABL:69
+  CB    Chukwuemeka Balogun           ABL:66
+
+=== Matabeleland (Overall: 72) | Region: Africa ===
+  GK    Thabo Dube                    ABL:71
+  ST    Nkosi Moyo                    ABL:72
+  CM    Lindiwe Ndlovu                ABL:56
+  CB    Nkosi Sithole                 ABL:70
+  LW    Nkosi Ndlovu                  ABL:61
+  CDM   Themba Khumalo                ABL:62
+  LWB   Nkosi Mahlangu                ABL:72
+  CB    Themba Ndlovu                 ABL:66
+  ST    Sipho Dube                    ABL:69
+  CDM   Thabo Sithole                 ABL:58
+  CB    Sipho Sithole                 ABL:56
+  RW    Lindiwe Sithole               ABL:64
+  CDM   Sipho Ndlovu                  ABL:63
+  GK    Bongani Ndlovu                ABL:67
+  RM    Bongani Sithole               ABL:56
+  CB    Themba Dube                   ABL:67
+  CDM   Themba Mahlangu               ABL:68
+  CDM   Thabo Moyo                    ABL:56
+  CB    Lindiwe Moyo                  ABL:55
+  RB    Nkosi Khumalo                 ABL:61
+  CB    Sipho Moyo                    ABL:68
+  RW    Bongani Mahlangu              ABL:56
+  CF    Sipho Khumalo                 ABL:67
+  RM    Thabo Mahlangu                ABL:64
+
+=== Sahrawi (Overall: 74) | Region: Africa ===
+  LWB   Omar El Amrani                ABL:63
+  RM    Omar Cherkaoui                ABL:65
+  RB    Mohammed Zaidi                ABL:60
+  GK    Youssef Haddad                ABL:63
+  LB    Karim Bouazizi                ABL:62
+  CAM   Hamza Bouazizi                ABL:59
+  ST    Omar Slaoui                   ABL:56
+  CM    Ahmed El Amrani               ABL:56
+  CAM   Ahmed Slaoui                  ABL:71
+  CDM   Karim Cherkaoui               ABL:65
+  CAM   Mohammed Cherkaoui            ABL:62
+  CAM   Mohammed Slaoui               ABL:63
+  ST    Youssef El Amrani             ABL:66
+  CDM   Ahmed Haddad                  ABL:58
+  RB    Karim El Amrani               ABL:71
+  CB    Mohammed Bouazizi             ABL:61
+  ST    Youssef Cherkaoui             ABL:66
+  CB    Hamza Zaidi                   ABL:57
+  CB    Youssef Bouazizi              ABL:55
+  LWB   Karim Slaoui                  ABL:66
+  GK    Karim Haddad                  ABL:74
+  RM    Hamza Cherkaoui               ABL:73
+  CF    Hamza Haddad                  ABL:61
+  RWB   Mohammed El Amrani            ABL:62
+  LW    Hamza El Amrani               ABL:71
+
+=== Yoruba (Overall: 77) | Region: Africa ===
+  GK    Tunde Chukwu                  ABL:72
+  CB    Ifeanyi Okafor                ABL:61
+  CF    Tunde Balogun                 ABL:66
+  LB    Ifeanyi Nwosu                 ABL:65
+  LW    Chidi Okonkwo                 ABL:69
+  CAM   Chukwuemeka Adeyemi           ABL:74
+  LB    Segun Adeyemi                 ABL:74
+  CM    Ifeanyi Balogun               ABL:68
+  RM    Chidi Mensah                  ABL:55
+  RWB   Kwame Nwosu                   ABL:72
+  CF    Olamide Chukwu                ABL:72
+  ST    Segun Mensah                  ABL:58
+  RB    Chukwuemeka Chukwu            ABL:61
+  RB    Olamide Okafor                ABL:73
+  CDM   Ifeanyi Adeyemi               ABL:60
+  CM    Kwame Mensah                  ABL:67
+  ST    Segun Chukwu                  ABL:66
+  CF    Kwame Adeyemi                 ABL:68
+  CDM   Segun Nwosu                   ABL:65
+  GK    Tunde Okafor                  ABL:76
+  ST    Tunde Okonkwo                 ABL:75
+  RW    Segun Balogun                 ABL:67
+
+=== Ambazonia (Overall: 73) | Region: Africa ===
+  RWB   Segun Chukwu                  ABL:64
+  RW    Segun Okafor                  ABL:73
+  CB    Chidi Mensah                  ABL:58
+  CB    Tunde Chukwu                  ABL:61
+  RWB   Segun Mensah                  ABL:69
+  CAM   Chukwuemeka Nwosu             ABL:68
+  GK    Segun Nwosu                   ABL:70
+  LM    Tunde Adeyemi                 ABL:65
+  CDM   Tunde Nwosu                   ABL:63
+  LW    Kwame Balogun                 ABL:62
+  CDM   Ifeanyi Nwosu                 ABL:72
+  RW    Chukwuemeka Mensah            ABL:60
+  CM    Chidi Okafor                  ABL:65
+  RM    Chidi Adeyemi                 ABL:60
+  CB    Chidi Okonkwo                 ABL:64
+  GK    Chidi Nwosu                   ABL:72
+  RWB   Kwame Adeyemi                 ABL:61
+  RM    Kwame Okafor                  ABL:62
+  CAM   Olamide Nwosu                 ABL:71
+  ST    Segun Adeyemi                 ABL:73
+  LW    Ifeanyi Adeyemi               ABL:61
+  RW    Kwame Chukwu                  ABL:60
+  RWB   Segun Okonkwo                 ABL:60
+
+=== Loango (Overall: 72) | Region: Africa ===
+  RWB   Kabongo Tshibangu             ABL:63
+  GK    Ilunga Ngoyi                  ABL:65
+  CAM   Tshimanga Tshibangu           ABL:66
+  LW    Kabongo Kalonji               ABL:58
+  CB    Tshimanga Mwamba              ABL:70
+  CDM   Mbala Ngoyi                   ABL:68
+  RWB   Ilunga Kalonji                ABL:70
+  CF    Mukendi Ngoyi                 ABL:67
+  ST    Tshimanga Kalonji             ABL:58
+  RM    Mukendi Kalonji               ABL:58
+  ST    Kabongo Mwamba                ABL:66
+  LW    Tshimanga Kasongo             ABL:56
+  RW    Ilunga Kasongo                ABL:69
+  LB    Kabongo Kasongo               ABL:68
+  ST    Mukendi Mwamba                ABL:55
+  CF    Ilunga Tshibangu              ABL:66
+  CB    Ilunga Mwamba                 ABL:63
+  LM    Mukendi Tshibangu             ABL:67
+  CM    Mbala Tshibangu               ABL:64
+  LB    Mukendi Kasongo               ABL:60
+  LWB   Mbala Mwamba                  ABL:65
+  RM    Mbala Kasongo                 ABL:57
+  GK    Mbala Kalonji                 ABL:57
+
+=== Rwenzururu (Overall: 73) | Region: Africa ===
+  CDM   Thabo Moyo                    ABL:66
+  RW    Nkosi Sithole                 ABL:66
+  LB    Nkosi Dube                    ABL:65
+  RM    Lindiwe Moyo                  ABL:57
+  RB    Thabo Dube                    ABL:65
+  RW    Lindiwe Khumalo               ABL:59
+  GK    Sipho Khumalo                 ABL:70
+  CDM   Themba Mahlangu               ABL:66
+  LWB   Thabo Mahlangu                ABL:72
+  RW    Themba Sithole                ABL:63
+  RM    Lindiwe Ndlovu                ABL:69
+  CB    Lindiwe Sithole               ABL:70
+  CF    Sipho Dube                    ABL:55
+  CM    Lindiwe Mahlangu              ABL:56
+  CAM   Sipho Mahlangu                ABL:66
+  LM    Nkosi Khumalo                 ABL:63
+  ST    Thabo Ndlovu                  ABL:70
+  RW    Bongani Mahlangu              ABL:59
+  CAM   Bongani Dube                  ABL:69
+  GK    Nkosi Moyo                    ABL:62
+  LB    Sipho Ndlovu                  ABL:57
+  CB    Themba Khumalo                ABL:60
+  LW    Themba Ndlovu                 ABL:70
+  CM    Nkosi Ndlovu                  ABL:58
+  RB    Bongani Khumalo               ABL:67
+
+=== Transkei (Overall: 72) | Region: Africa ===
+  CB    Nkosi Ndlovu                  ABL:59
+  CB    Lindiwe Moyo                  ABL:60
+  RB    Bongani Mahlangu              ABL:60
+  CM    Lindiwe Dube                  ABL:69
+  LW    Sipho Khumalo                 ABL:56
+  LM    Lindiwe Ndlovu                ABL:64
+  LB    Nkosi Mahlangu                ABL:60
+  LW    Lindiwe Khumalo               ABL:60
+  CDM   Sipho Sithole                 ABL:61
+  RWB   Lindiwe Sithole               ABL:69
+  CM    Sipho Mahlangu                ABL:72
+  CB    Sipho Moyo                    ABL:62
+  LB    Nkosi Dube                    ABL:62
+  ST    Bongani Dube                  ABL:67
+  CAM   Thabo Mahlangu                ABL:58
+  LM    Nkosi Khumalo                 ABL:72
+  ST    Lindiwe Mahlangu              ABL:61
+  CB    Nkosi Moyo                    ABL:59
+  LB    Bongani Sithole               ABL:68
+  CAM   Bongani Ndlovu                ABL:70
+  CF    Nkosi Sithole                 ABL:64
+  CM    Sipho Dube                    ABL:57
+  GK    Thabo Khumalo                 ABL:72
+  ST    Themba Mahlangu               ABL:65
+  GK    Thabo Ndlovu                  ABL:72
+
+=== Somaliland (Overall: 78) | Region: Africa ===
+  RB    Cabdi Warsame                 ABL:58
+  RB    Cali Warsame                  ABL:77
+  CB    Cabdi Diriye                  ABL:66
+  LWB   Maxamed Ismail                ABL:57
+  GK    Yusuf Ismail                  ABL:57
+  LB    Yusuf Cabdullahi              ABL:72
+  CM    Xasan Nuur                    ABL:68
+  CF    Faarax Cabdullahi             ABL:77
+  LM    Cabdi Nuur                    ABL:57
+  ST    Cabdi Cabdullahi              ABL:60
+  LW    Xasan Ismail                  ABL:62
+  ST    Faarax Nuur                   ABL:55
+  CM    Xasan Warsame                 ABL:70
+  LB    Xasan Diriye                  ABL:62
+  CAM   Maxamed Cabdullahi            ABL:55
+  LWB   Cali Diriye                   ABL:56
+  LW    Yusuf Diriye                  ABL:66
+  LW    Faarax Diriye                 ABL:73
+  RM    Maxamed Nuur                  ABL:60
+  GK    Yusuf Warsame                 ABL:59
+  RM    Cali Ismail                   ABL:71
+  CM    Cabdi Ismail                  ABL:63
+  LM    Faarax Ismail                 ABL:69
+  CB    Xasan Cabdullahi              ABL:74
+  CAM   Faarax Warsame                ABL:73
+
+=== Zanzibar (Overall: 79) | Region: Africa ===
+  ST    Amani Mbeki                   ABL:66
+  LWB   Juma Kamau                    ABL:68
+  CAM   Salim Mwangi                  ABL:64
+  CM    Juma Mwangi                   ABL:64
+  RW    Rashidi Kamau                 ABL:69
+  LWB   Rashidi Mwangi                ABL:75
+  CDM   Salim Mbeki                   ABL:55
+  CF    Amani Otieno                  ABL:55
+  LB    Salim Otieno                  ABL:69
+  CF    Baraka Mbeki                  ABL:72
+  CM    Hamisi Kamau                  ABL:55
+  CAM   Salim Hassan                  ABL:70
+  CB    Juma Mbeki                    ABL:77
+  LM    Rashidi Otieno                ABL:57
+  CM    Amani Mwangi                  ABL:56
+  GK    Amani Njoroge                 ABL:69
+  CF    Juma Hassan                   ABL:56
+  GK    Hamisi Mbeki                  ABL:64
+  RWB   Salim Njoroge                 ABL:61
+  RWB   Hamisi Mwangi                 ABL:76
+  CB    Hamisi Otieno                 ABL:62
+  CB    Amani Hassan                  ABL:77
+  CF    Baraka Kamau                  ABL:69
+  CF    Salim Kamau                   ABL:78
+
+=== Orange State (Overall: 80) | Region: Africa ===
+  RB    Dylan Thompson                ABL:75
+  CAM   Brandon Johnson               ABL:70
+  GK    Brandon Anderson              ABL:69
+  CB    Cody Thompson                 ABL:62
+  CAM   Tyler Wilson                  ABL:73
+  LWB   Ryan Anderson                 ABL:63
+  RW    Tyler Martin                  ABL:56
+  LWB   Brandon Miller                ABL:76
+  LW    Cody Davis                    ABL:67
+  CM    Tyler Johnson                 ABL:71
+  CB    Ryan Johnson                  ABL:62
+  GK    Jake Anderson                 ABL:56
+  CDM   Jake Wilson                   ABL:80
+  ST    Tyler Thompson                ABL:72
+  RM    Dylan Johnson                 ABL:71
+  LB    Brandon Martin                ABL:80
+  LW    Brandon Davis                 ABL:79
+  CDM   Cody Martin                   ABL:56
+  CF    Ryan Thompson                 ABL:76
+  RWB   Austin Davis                  ABL:60
+  ST    Austin Anderson               ABL:57
+  RW    Jake Johnson                  ABL:59
+  RW    Austin Martin                 ABL:63
+  LM    Ryan Martin                   ABL:64
+
+
+########## ASIA ##########
+
+=== Ryūkyū (Overall: 64) | Region: Asia ===
+  RM    Kenji Shimabukuro             ABL:57
+  LWB   Shinji Uehara                 ABL:60
+  GK    Takeshi Miyagi                ABL:63
+  CDM   Takeshi Uehara                ABL:62
+  RW    Kenji Gushiken                ABL:62
+  CF    Shinji Higa                   ABL:59
+  LW    Kenji Higa                    ABL:60
+  RB    Yuta Higa                     ABL:57
+  LWB   Yuta Miyagi                   ABL:63
+  ST    Ryota Nakamura                ABL:57
+  LM    Shinji Nakamura               ABL:61
+  RM    Takeshi Shimabukuro           ABL:57
+  CAM   Ryota Shimabukuro             ABL:61
+  ST    Takeshi Higa                  ABL:64
+  LWB   Ryota Gushiken                ABL:64
+  CDM   Takeshi Gushiken              ABL:55
+  RM    Ryota Uehara                  ABL:56
+  CF    Hiroshi Higa                  ABL:63
+  RW    Shinji Miyagi                 ABL:62
+  LW    Kenji Uehara                  ABL:62
+  CDM   Hiroshi Shimabukuro           ABL:60
+  LWB   Hiroshi Gushiken              ABL:64
+  RWB   Takeshi Nakamura              ABL:56
+  RB    Yuta Uehara                   ABL:64
+  GK    Kenji Miyagi                  ABL:60
+
+=== Lezghian (Overall: 61) | Region: Asia ===
+  LWB   Beslan Tlisov                 ABL:57
+  CF    Beslan Kagermazov             ABL:58
+  LWB   Timur Nartov                  ABL:61
+  CB    Kazbek Abzhandadze            ABL:59
+  RB    Timur Kokov                   ABL:59
+  GK    Aslan Khagba                  ABL:61
+  ST    Timur Kagermazov              ABL:57
+  GK    Kazbek Kokov                  ABL:61
+  GK    Zaur Abzhandadze              ABL:59
+  LM    Beslan Abzhandadze            ABL:55
+  ST    Zaur Kagermazov               ABL:60
+  CM    Kazbek Kanukov                ABL:57
+  LW    Murat Khagba                  ABL:57
+  RB    Kazbek Kagermazov             ABL:55
+  RM    Murat Kagermazov              ABL:55
+  CM    Beslan Kanukov                ABL:61
+  LW    Zaur Tlisov                   ABL:60
+  CM    Ruslan Kagermazov             ABL:60
+  RW    Murat Kanukov                 ABL:59
+  RM    Aslan Tlisov                  ABL:57
+  RB    Timur Khagba                  ABL:59
+  CB    Timur Kanukov                 ABL:57
+  CAM   Zaur Khagba                   ABL:57
+
+=== Acech (Overall: 63) | Region: Asia ===
+  RW    Noah Adler                    ABL:57
+  ST    Robin Reyes                   ABL:57
+  CB    Kim Kane                      ABL:59
+  RW    Chris Marsh                   ABL:55
+  CB    Kim Silva                     ABL:57
+  CM    Sam Vance                     ABL:57
+  GK    Robin Cole                    ABL:58
+  CDM   Robin Adler                   ABL:57
+  RM    Sam Adler                     ABL:62
+  CDM   Alex Kane                     ABL:58
+  RB    Jordan Cole                   ABL:60
+  CM    Taylor Cole                   ABL:55
+  LM    Alex Bello                    ABL:62
+  CB    Kim Marsh                     ABL:61
+  ST    Noah Bello                    ABL:60
+  RM    Kim Cole                      ABL:62
+  LW    Jordan Marsh                  ABL:62
+  LWB   Sam Silva                     ABL:59
+  ST    Alex Adler                    ABL:59
+  RW    Sam Cole                      ABL:60
+  LB    Chris Bello                   ABL:57
+  GK    Robin Vance                   ABL:55
+  GK    Alex Cole                     ABL:60
+
+=== Nagaland (Overall: 62) | Region: Asia ===
+  LW    Kumar Sundaram                ABL:61
+  LB    Rajesh Subramaniam            ABL:61
+  LM    Suresh Pillai                 ABL:62
+  LW    Kumar Subramaniam             ABL:62
+  LWB   Prakash Subramaniam           ABL:58
+  RM    Suresh Krishnan               ABL:55
+  RW    Rajesh Sundaram               ABL:56
+  CDM   Prakash Krishnan              ABL:58
+  CDM   Vijay Murugan                 ABL:61
+  RWB   Vijay Ramasamy                ABL:62
+  GK    Vijay Pillai                  ABL:62
+  RWB   Suresh Murugan                ABL:61
+  CM    Arun Murugan                  ABL:57
+  LWB   Kumar Ramasamy                ABL:57
+  LM    Rajesh Pillai                 ABL:58
+  GK    Rajesh Murugan                ABL:61
+  RWB   Prakash Pillai                ABL:57
+  LB    Vijay Subramaniam             ABL:60
+  RM    Prakash Murugan               ABL:61
+  ST    Vijay Krishnan                ABL:56
+  LW    Kumar Krishnan                ABL:56
+  CF    Suresh Ramasamy               ABL:59
+  CAM   Prakash Sundaram              ABL:62
+
+=== East Turkestan (Overall: 71) | Region: Asia ===
+  LM    Abduweli Osman                ABL:69
+  CF    Ekber Hoshur                  ABL:68
+  CDM   Abduweli Niyaz                ABL:60
+  LWB   Ekber Kurban                  ABL:69
+  CB    Ilham Hoshur                  ABL:55
+  RM    Ilham Emet                    ABL:62
+  CB    Ekber Osman                   ABL:67
+  RWB   Rozi Kurban                   ABL:68
+  RWB   Rozi Emet                     ABL:64
+  CF    Abduweli Hoshur               ABL:67
+  CDM   Memet Kurban                  ABL:70
+  CF    Abduweli Emet                 ABL:55
+  CDM   Tursun Emet                   ABL:57
+  GK    Tursun Kurban                 ABL:68
+  CB    Ilham Niyaz                   ABL:70
+  GK    Tursun Hoshur                 ABL:68
+  CDM   Abduweli Tohti                ABL:64
+  CB    Rozi Tohti                    ABL:70
+  GK    Ekber Emet                    ABL:62
+  LB    Ilham Tohti                   ABL:64
+  LM    Rozi Osman                    ABL:70
+  CF    Abduweli Kurban               ABL:70
+  CDM   Ekber Tohti                   ABL:61
+  ST    Tursun Tohti                  ABL:61
+  RW    Memet Niyaz                   ABL:55
+
+=== Kashmir (Overall: 70) | Region: Asia ===
+  CB    Adnan Bhat                    ABL:58
+  CDM   Bilal Malik                   ABL:68
+  RM    Yasin Bhat                    ABL:70
+  GK    Adnan Dar                     ABL:60
+  CM    Yasin Dar                     ABL:66
+  RB    Junaid Malik                  ABL:66
+  CB    Junaid Rather                 ABL:62
+  LB    Bilal Sheikh                  ABL:68
+  LWB   Bilal Bhat                    ABL:68
+  LW    Farhan Malik                  ABL:69
+  CB    Irfan Rather                  ABL:66
+  LM    Yasin Malik                   ABL:59
+  CAM   Yasin Rather                  ABL:57
+  RM    Adnan Malik                   ABL:60
+  CB    Farhan Wani                   ABL:67
+  CAM   Junaid Bhat                   ABL:56
+  GK    Junaid Sheikh                 ABL:64
+  CAM   Irfan Dar                     ABL:65
+  ST    Adnan Wani                    ABL:63
+  LW    Irfan Sheikh                  ABL:59
+  RW    Farhan Rather                 ABL:61
+  CB    Adnan Rather                  ABL:67
+  LW    Bilal Dar                     ABL:57
+  CM    Yasin Sheikh                  ABL:65
+
+=== Hmong (Overall: 68) | Region: Asia ===
+  RM    Saw Htoo                      ABL:58
+  CAM   Vang Thao                     ABL:63
+  LWB   Saw Xiong                     ABL:68
+  RM    Thao Moo                      ABL:56
+  LWB   Xiong Htoo                    ABL:61
+  LB    Yang Vang                     ABL:56
+  GK    Vang Moo                      ABL:57
+  ST    Yang Xiong                    ABL:62
+  LW    Naw Lian                      ABL:61
+  RM    Saw Lian                      ABL:63
+  LWB   Yang Thao                     ABL:64
+  CB    Yang Htoo                     ABL:61
+  GK    Xiong Lian                    ABL:57
+  CF    Saw Vang                      ABL:66
+  CDM   Xiong Moo                     ABL:62
+  LWB   Vang Htoo                     ABL:57
+  CM    Saw Thao                      ABL:56
+  CAM   Saw Moo                       ABL:56
+  GK    Vang Lian                     ABL:57
+  CB    Thao Thao                     ABL:59
+  LW    Vang Xiong                    ABL:57
+  CDM   Thao Xiong                    ABL:57
+  CM    Naw Moo                       ABL:55
+  CB    Thao Vang                     ABL:68
+  LB    Yang Lian                     ABL:59
+
+=== Karen (Overall: 67) | Region: Asia ===
+  LM    Xiong Xiong                   ABL:66
+  LM    Saw Moo                       ABL:56
+  RM    Saw Lian                      ABL:60
+  GK    Yang Lian                     ABL:55
+  LW    Yang Vang                     ABL:60
+  CM    Yang Xiong                    ABL:61
+  CB    Vang Lian                     ABL:60
+  RWB   Yang Thao                     ABL:56
+  LW    Vang Vang                     ABL:63
+  CDM   Xiong Thao                    ABL:57
+  CAM   Vang Xiong                    ABL:59
+  ST    Yang Htoo                     ABL:57
+  RM    Thao Xiong                    ABL:55
+  RB    Naw Vang                      ABL:59
+  CF    Thao Moo                      ABL:56
+  LWB   Xiong Lian                    ABL:64
+  RWB   Xiong Moo                     ABL:63
+  LWB   Vang Thao                     ABL:55
+  LM    Vang Moo                      ABL:55
+  RB    Xiong Vang                    ABL:59
+  ST    Naw Xiong                     ABL:59
+  RW    Naw Lian                      ABL:58
+  GK    Saw Xiong                     ABL:67
+  CF    Saw Thao                      ABL:65
+  CB    Thao Lian                     ABL:59
+
+=== Rohingya (Overall: 66) | Region: Asia ===
+  GK    Saw Vang                      ABL:65
+  CB    Yang Htoo                     ABL:56
+  RW    Thao Moo                      ABL:64
+  CAM   Xiong Htoo                    ABL:55
+  RM    Vang Moo                      ABL:60
+  LWB   Xiong Moo                     ABL:55
+  LWB   Vang Thao                     ABL:65
+  LM    Naw Thao                      ABL:58
+  ST    Vang Lian                     ABL:65
+  LWB   Thao Htoo                     ABL:58
+  CF    Thao Vang                     ABL:59
+  CDM   Naw Lian                      ABL:58
+  CM    Vang Xiong                    ABL:65
+  ST    Yang Vang                     ABL:59
+  LWB   Saw Lian                      ABL:62
+  CAM   Xiong Lian                    ABL:58
+  LB    Naw Htoo                      ABL:64
+  GK    Xiong Vang                    ABL:64
+  CF    Thao Lian                     ABL:58
+  CDM   Saw Htoo                      ABL:59
+  CB    Vang Htoo                     ABL:65
+  ST    Saw Moo                       ABL:55
+  CB    Yang Moo                      ABL:59
+  ST    Yang Thao                     ABL:63
+  RWB   Yang Xiong                    ABL:60
+
+=== Tibet (Overall: 69) | Region: Asia ===
+  LM    Dorje Tashi                   ABL:69
+  CB    Lobsang Tashi                 ABL:59
+  RB    Karma Choephel                ABL:61
+  CF    Tenzin Tashi                  ABL:65
+  RWB   Tenzin Gyatso                 ABL:55
+  CB    Sonam Norbu                   ABL:61
+  GK    Lobsang Wangchuk              ABL:68
+  CB    Karma Tashi                   ABL:62
+  ST    Lobsang Norbu                 ABL:67
+  CDM   Lobsang Gyatso                ABL:64
+  RW    Tenzin Dolma                  ABL:65
+  ST    Rinchen Tashi                 ABL:62
+  CDM   Karma Dolma                   ABL:64
+  CAM   Dorje Gyatso                  ABL:57
+  CDM   Rinchen Gyatso                ABL:59
+  GK    Lobsang Choephel              ABL:64
+  CF    Dorje Wangchuk                ABL:67
+  LW    Dorje Dolma                   ABL:64
+  LW    Rinchen Dolma                 ABL:59
+  GK    Karma Gyatso                  ABL:67
+  CAM   Lobsang Dolma                 ABL:64
+  CB    Sonam Dolma                   ABL:60
+
+=== Cilicia (Overall: 72) | Region: Asia ===
+  CF    Ashot Sargsyan                ABL:55
+  CF    Karen Ghazaryan               ABL:66
+  RWB   Armen Manukyan                ABL:68
+  CB    Armen Avetisyan               ABL:66
+  GK    Tigran Avetisyan              ABL:57
+  CF    Armen Sargsyan                ABL:58
+  CF    Armen Ghazaryan               ABL:60
+  CAM   Ashot Manukyan                ABL:63
+  CF    Karen Avetisyan               ABL:66
+  LM    Vahan Avetisyan               ABL:70
+  RW    Sasun Avetisyan               ABL:66
+  LM    Sasun Sargsyan                ABL:67
+  RB    Ashot Petrosyan               ABL:70
+  LWB   Vardan Grigoryan              ABL:55
+  RW    Sasun Petrosyan               ABL:63
+  LB    Vahan Manukyan                ABL:59
+  LB    Tigran Petrosyan              ABL:60
+  CF    Vardan Sargsyan               ABL:57
+  CM    Sasun Ghazaryan               ABL:57
+  LWB   Vahan Petrosyan               ABL:68
+  CAM   Tigran Ghazaryan              ABL:72
+  CDM   Sasun Manukyan                ABL:64
+  GK    Karen Sargsyan                ABL:58
+
+=== Javahk (Overall: 69) | Region: Asia ===
+  RWB   Vardan Ghazaryan              ABL:68
+  RB    Vahan Ghazaryan               ABL:66
+  CAM   Karen Avetisyan               ABL:56
+  RW    Karen Petrosyan               ABL:65
+  GK    Vardan Petrosyan              ABL:68
+  LM    Vahan Avetisyan               ABL:57
+  RWB   Armen Grigoryan               ABL:56
+  RWB   Vahan Petrosyan               ABL:65
+  CDM   Ashot Sargsyan                ABL:63
+  CF    Tigran Sargsyan               ABL:56
+  CF    Tigran Grigoryan              ABL:63
+  LW    Ashot Manukyan                ABL:65
+  GK    Vahan Grigoryan               ABL:65
+  GK    Vahan Manukyan                ABL:57
+  LW    Sasun Grigoryan               ABL:63
+  CB    Tigran Ghazaryan              ABL:63
+  LM    Sasun Sargsyan                ABL:65
+  CDM   Karen Sargsyan                ABL:58
+  CAM   Ashot Grigoryan               ABL:68
+  RB    Ashot Ghazaryan               ABL:63
+  LW    Ashot Avetisyan               ABL:64
+  RWB   Armen Sargsyan                ABL:63
+  LW    Armen Avetisyan               ABL:69
+  RWB   Tigran Avetisyan              ABL:61
+
+=== Druze (Overall: 70) | Region: Asia ===
+  CM    Amir Halabi                   ABL:64
+  RM    Rafik Farhat                  ABL:58
+  RWB   Rafik Khatib                  ABL:64
+  CF    Rafik Tarif                   ABL:56
+  LW    Salman Khatib                 ABL:67
+  RWB   Rafik Nasser al-Din           ABL:67
+  GK    Nabih Nasser al-Din           ABL:59
+  CM    Kamal Tarif                   ABL:59
+  CF    Salman Halabi                 ABL:67
+  RW    Amir Khatib                   ABL:62
+  RWB   Nabih Halabi                  ABL:69
+  RM    Kamal Farhat                  ABL:64
+  LB    Rafik Halabi                  ABL:64
+  GK    Nabih Khatib                  ABL:57
+  CF    Amir Tarif                    ABL:62
+  CAM   Amir Farhat                   ABL:59
+  GK    Nabih Farhat                  ABL:58
+  RM    Nabih Tarif                   ABL:61
+  LW    Salman Nasser al-Din          ABL:56
+  RW    Kamal Halabi                  ABL:58
+  ST    Kamal Khatib                  ABL:70
+  RWB   Salman Tarif                  ABL:67
+  RWB   Salman Farhat                 ABL:66
+
+=== Arameans Suryoye (Overall: 78) | Region: Asia ===
+  GK    Ninos Yousif                  ABL:57
+  CF    Ninwe Odisho                  ABL:71
+  LW    Sargon Benyamin               ABL:70
+  CM    Sargon Malek                  ABL:69
+  GK    Ashur Malek                   ABL:58
+  LB    Ninwe Hormiz                  ABL:72
+  CB    Ninwe Yousif                  ABL:59
+  LM    Ashur Odisho                  ABL:55
+  ST    Sargon Yousif                 ABL:59
+  CB    Sennacherib Benyamin          ABL:67
+  ST    Sargon Odisho                 ABL:77
+  LB    Sennacherib Malek             ABL:77
+  LB    Ninos Hormiz                  ABL:73
+  LWB   Ashur Yousif                  ABL:57
+  CM    Ninos Odisho                  ABL:68
+  CAM   Ashur Benyamin                ABL:73
+  LB    Ninwe Malek                   ABL:71
+  CDM   Sennacherib Hormiz            ABL:58
+  CAM   Sargon Hormiz                 ABL:70
+  GK    Sennacherib Odisho            ABL:64
+  CM    Ninos Malek                   ABL:59
+  CF    Ninwe Benyamin                ABL:63
+
+=== South Moluccas (Overall: 76) | Region: Asia ===
+  LW    Piet Pattinasarany            ABL:70
+  LM    Johanis Rehatta               ABL:57
+  CAM   Johanis Pattinasarany         ABL:71
+  RM    Marthen Souisa                ABL:76
+  CB    Marthen Rehatta               ABL:64
+  GK    Dominggus Latuconsina         ABL:62
+  CB    Dominggus Souisa              ABL:67
+  GK    Semuel Rehatta                ABL:71
+  GK    Semuel Tuhumury               ABL:57
+  RW    Dominggus Pattinasarany       ABL:60
+  LB    Semuel Pattinasarany          ABL:68
+  RW    Johanis Tuhumury              ABL:68
+  RB    Marthen Pattinasarany         ABL:74
+  CAM   Piet Latuconsina              ABL:61
+  RW    Semuel Latuconsina            ABL:75
+  RW    Semuel Souisa                 ABL:67
+  LWB   Marthen Tuhumury              ABL:75
+  CAM   Piet Souisa                   ABL:75
+  ST    Marthen Latuconsina           ABL:56
+  RM    Dominggus Rehatta             ABL:61
+  RWB   Piet Tuhumury                 ABL:66
+  LB    Johanis Latuconsina           ABL:61
+  LW    Piet Rehatta                  ABL:73
+  LB    Johanis Souisa                ABL:64
+
+=== Assyria (Overall: 78) | Region: Asia ===
+  LW    Ninos Yousif                  ABL:57
+  CB    Sargon Malek                  ABL:65
+  LM    Ninwe Benyamin                ABL:70
+  CF    Ashur Odisho                  ABL:77
+  GK    Ninwe Malek                   ABL:63
+  CAM   Sennacherib Benyamin          ABL:67
+  ST    Ashur Yousif                  ABL:56
+  RB    Ninos Hormiz                  ABL:72
+  CAM   Ninos Odisho                  ABL:64
+  RWB   Sargon Yousif                 ABL:65
+  CM    Sargon Benyamin               ABL:64
+  CF    Sennacherib Malek             ABL:72
+  CF    Sargon Hormiz                 ABL:73
+  CAM   Sennacherib Hormiz            ABL:72
+  LWB   Ashur Malek                   ABL:57
+  LB    Ninwe Hormiz                  ABL:65
+  GK    Ninos Benyamin                ABL:78
+  LB    Ninwe Odisho                  ABL:70
+  CAM   Ashur Benyamin                ABL:56
+  RB    Ninwe Yousif                  ABL:71
+  CF    Sennacherib Yousif            ABL:72
+  CAM   Sennacherib Odisho            ABL:55
+  CAM   Sargon Odisho                 ABL:63
+  GK    Ashur Hormiz                  ABL:66
+
+=== Tamil (Overall: 82) | Region: Asia ===
+  RW    Vijay Murugan                 ABL:63
+  ST    Vijay Sundaram                ABL:60
+  RM    Arun Pillai                   ABL:76
+  ST    Arun Subramaniam              ABL:70
+  LB    Kumar Subramaniam             ABL:78
+  CF    Suresh Krishnan               ABL:67
+  GK    Prakash Pillai                ABL:73
+  RB    Suresh Sundaram               ABL:68
+  RB    Arun Murugan                  ABL:62
+  LM    Arun Sundaram                 ABL:69
+  LB    Rajesh Sundaram               ABL:79
+  LB    Kumar Krishnan                ABL:80
+  CM    Kumar Ramasamy                ABL:59
+  CAM   Kumar Sundaram                ABL:64
+  RB    Rajesh Ramasamy               ABL:64
+  ST    Rajesh Krishnan               ABL:75
+  CB    Kumar Pillai                  ABL:55
+  LM    Kumar Murugan                 ABL:64
+  CAM   Suresh Ramasamy               ABL:58
+  GK    Prakash Subramaniam           ABL:76
+  LWB   Prakash Murugan               ABL:77
+  CDM   Vijay Subramaniam             ABL:65
+  LM    Rajesh Subramaniam            ABL:68
+
+=== Panjab (Overall: 86) | Region: Asia ===
+  LWB   Manpreet Dhillon              ABL:62
+  RM    Gurpreet Brar                 ABL:82
+  LW    Manpreet Singh                ABL:64
+  RW    Jaspreet Sandhu               ABL:77
+  LM    Amrit Brar                    ABL:64
+  GK    Jaspreet Brar                 ABL:72
+  CB    Harpreet Sandhu               ABL:79
+  LM    Amrit Dhillon                 ABL:77
+  CM    Harpreet Kaur                 ABL:55
+  CF    Jaspreet Singh                ABL:64
+  LB    Gurpreet Sandhu               ABL:75
+  RM    Amrit Gill                    ABL:62
+  LWB   Manpreet Kaur                 ABL:72
+  CDM   Gurpreet Kaur                 ABL:74
+  CB    Ranjit Singh                  ABL:56
+  CB    Gurpreet Dhillon              ABL:69
+  CB    Harpreet Singh                ABL:82
+  CB    Gurpreet Singh                ABL:60
+  CB    Ranjit Kaur                   ABL:76
+  LW    Harpreet Dhillon              ABL:58
+  CF    Manpreet Brar                 ABL:59
+  GK    Ranjit Gill                   ABL:58
+  LM    Jaspreet Dhillon              ABL:66
+  RM    Ranjit Sandhu                 ABL:67
+
+
+########## OCEANIA ##########
+
+=== New Ireland (Overall: 62) | Region: Oceania ===
+  CM    Benny Wanimbo                 ABL:55
+  LW    Benny Mote                    ABL:58
+  CB    Yosef Mote                    ABL:55
+  ST    Markus Wenda                  ABL:60
+  ST    Willem Mote                   ABL:59
+  GK    Yance Tabuni                  ABL:61
+  RW    Willem Wenda                  ABL:55
+  GK    Benny Kogoya                  ABL:62
+  LWB   Yohanes Tabuni                ABL:57
+  ST    Markus Wanimbo                ABL:60
+  RWB   Yance Mote                    ABL:59
+  CAM   Yance Wenda                   ABL:61
+  CAM   Yohanes Mote                  ABL:58
+  ST    Yohanes Wenda                 ABL:55
+  CAM   Markus Mote                   ABL:57
+  LW    Yohanes Kogoya                ABL:59
+  CF    Markus Tabuni                 ABL:60
+  RWB   Markus Kogoya                 ABL:58
+  RB    Willem Wanimbo                ABL:61
+  CDM   Yosef Wanimbo                 ABL:60
+  RB    Yohanes Wanimbo               ABL:59
+  LM    Yance Kogoya                  ABL:60
+  LM    Willem Kogoya                 ABL:58
+  CDM   Benny Wenda                   ABL:61
+  LWB   Willem Tabuni                 ABL:59
+
+=== West Papua (Overall: 70) | Region: Oceania ===
+  LWB   Benny Wenda                   ABL:66
+  ST    Yosef Wenda                   ABL:66
+  ST    Yosef Wanimbo                 ABL:58
+  CB    Benny Kogoya                  ABL:69
+  GK    Benny Wanimbo                 ABL:66
+  ST    Benny Mote                    ABL:64
+  ST    Yance Mote                    ABL:65
+  LB    Yohanes Mote                  ABL:60
+  CDM   Willem Mote                   ABL:67
+  CM    Willem Wenda                  ABL:65
+  CF    Markus Mote                   ABL:66
+  CAM   Yohanes Wanimbo               ABL:68
+  CM    Yosef Mote                    ABL:59
+  CF    Yohanes Tabuni                ABL:66
+  CM    Yance Wanimbo                 ABL:68
+  GK    Yohanes Kogoya                ABL:59
+  RB    Yosef Kogoya                  ABL:59
+  CF    Markus Wanimbo                ABL:57
+  GK    Yance Tabuni                  ABL:69
+  CM    Willem Kogoya                 ABL:70
+  CB    Willem Tabuni                 ABL:70
+  LWB   Benny Tabuni                  ABL:62
+
+=== Mariya (Overall: 67) | Region: Oceania ===
+  RW    Kim Reyes                     ABL:57
+  LM    Kim Vance                     ABL:61
+  RW    Chris Cole                    ABL:61
+  RWB   Alex Reyes                    ABL:57
+  LW    Taylor Kane                   ABL:65
+  CB    Sam Reyes                     ABL:62
+  CB    Kim Cole                      ABL:60
+  RB    Sam Cole                      ABL:63
+  RM    Robin Bello                   ABL:62
+  CB    Chris Kane                    ABL:58
+  GK    Alex Vance                    ABL:55
+  GK    Sam Vance                     ABL:61
+  LB    Jordan Bello                  ABL:55
+  RW    Alex Kane                     ABL:56
+  CF    Chris Adler                   ABL:65
+  CAM   Noah Vance                    ABL:62
+  LM    Jordan Vance                  ABL:57
+  RM    Noah Kane                     ABL:57
+  CB    Chris Silva                   ABL:64
+  ST    Sam Marsh                     ABL:59
+  CM    Sam Bello                     ABL:57
+  GK    Sam Silva                     ABL:65
+  RM    Taylor Marsh                  ABL:62
+
+=== New Caledonia (Overall: 73) | Region: Oceania ===
+  CDM   Aramoana Wamytan              ABL:63
+  LM    Waan Tjibaou                  ABL:55
+  CDM   Poinou Naisseline             ABL:70
+  RW    Waan Wamytan                  ABL:63
+  CB    Waan Kaddour                  ABL:56
+  RW    Waan Naisseline               ABL:71
+  RB    Waan Gorodey                  ABL:71
+  GK    Déwé Gorodey                  ABL:70
+  CB    Déwé Kaddour                  ABL:68
+  RW    Déwé Tjibaou                  ABL:65
+  RB    Déwé Naisseline               ABL:66
+  ST    Aramoana Gorodey              ABL:56
+  CB    Bwenando Wamytan              ABL:58
+  CDM   Poinou Tjibaou                ABL:62
+  GK    Poinou Gorodey                ABL:71
+  LM    Aramoana Naisseline           ABL:55
+  RW    Déwé Wamytan                  ABL:66
+  LB    Aramoana Kaddour              ABL:57
+  CM    Aramoana Tjibaou              ABL:61
+  RM    Bwenando Kaddour              ABL:73
+  RWB   Poinou Wamytan                ABL:59
+  CAM   Bwenando Naisseline           ABL:61
+  RWB   Bwenando Tjibaou              ABL:58
+  LM    Poinou Kaddour                ABL:62
+
+=== Hawaiʻi (Overall: 77) | Region: Oceania ===
+  RM    Kalani Kealoha                ABL:62
+  LB    Manaia Kealoha                ABL:65
+  CB    Mahina Faleolo                ABL:65
+  CB    Kalani Tupou                  ABL:75
+  CAM   Manaia Faleolo                ABL:76
+  RW    Kai Havili                    ABL:77
+  CB    Leilani Kealoha               ABL:77
+  RW    Tane Nāhoʻopiʻi               ABL:61
+  LW    Tane Havili                   ABL:75
+  CM    Mahina Kahale                 ABL:73
+  LW    Leilani Kahale                ABL:76
+  GK    Mahina Nāhoʻopiʻi             ABL:70
+  LW    Mahina Tupou                  ABL:60
+  RB    Manaia Tupou                  ABL:64
+  CDM   Manaia Kahale                 ABL:55
+  LB    Leilani Faleolo               ABL:74
+  CM    Mahina Havili                 ABL:60
+  CDM   Kai Tupou                     ABL:77
+  RW    Kalani Faleolo                ABL:67
+  CB    Leilani Havili                ABL:67
+  RB    Tane Tupou                    ABL:64
+  CAM   Kai Kahale                    ABL:58
+  GK    Leilani Nāhoʻopiʻi            ABL:62
+  CAM   Kalani Havili                 ABL:67
+
