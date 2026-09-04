@@ -1,5 +1,3 @@
-// src/controlers/cycle_controller.ts
-
 import type { Context } from "elysia";
 
 import { cycleService } from "../services";

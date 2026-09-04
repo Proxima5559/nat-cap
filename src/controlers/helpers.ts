@@ -1,6 +1,3 @@
-// src/controlers/helpers.ts
-// Shared helpers for turning ErrorsUtil errors into HTTP responses.
-
 import type { Context } from "elysia";
 import { ZodError } from "zod";
 import { ErrorsUtil } from "../utils";

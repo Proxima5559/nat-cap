@@ -1,5 +1,3 @@
-// src/controlers/player_controller.ts
-
 import type { Context } from "elysia";
 
 import { playerService } from "../services";

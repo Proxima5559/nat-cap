@@ -1,5 +1,3 @@
-// src/routes/statistics_routes.ts
-
 import { Elysia, t } from "elysia";
 
 import {

@@ -1,5 +1,3 @@
-// src/routes/player_routes.ts
-
 import { Elysia, t } from "elysia";
 
 import {

@@ -1,5 +1,3 @@
-// src/controlers/tournament_controller.ts
-
 import type { Context } from "elysia";
 
 import { tournamentService } from "../services";

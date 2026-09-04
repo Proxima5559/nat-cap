@@ -1,8 +1,3 @@
-// src/simulation/match/probability.ts
-// Pure statistical model turning two strength numbers into a plausible
-// scoreline's ingredients: possession -> shots -> shots on target -> goals.
-// Each stage narrows down using the previous one, same as a real match builds.
-
 function random(min: number, max: number): number {
   return Math.random() * (max - min) + min;
 }

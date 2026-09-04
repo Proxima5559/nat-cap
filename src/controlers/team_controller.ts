@@ -1,5 +1,3 @@
-// src/controlers/team_controller.ts
-
 import type { Context } from "elysia";
 
 import { teamService } from "../services";

@@ -1,7 +1,3 @@
-// src/simulation/engine/tournament.engine.ts
-// Runs an entire tournament: teams -> fixtures -> MatchEngine -> standings
-// -> qualified teams -> next round -> winner.
-
 import { fixtureGenerator } from "../../generators/fixture_generator";
 import { matchEngine } from "./match.engine";
 import { runGroupStage, type GroupStageParticipants } from "../tournament/group-stage";

@@ -1,5 +1,3 @@
-// src/controlers/competition_controller.ts
-
 import type { Context } from "elysia";
 
 import { competitionService } from "../services";

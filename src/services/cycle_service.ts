@@ -1,5 +1,3 @@
-// src/services/cycle.service.ts
-
 import { asc, eq } from "drizzle-orm";
 
 import { db } from "../config/database";

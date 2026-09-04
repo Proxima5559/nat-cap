@@ -1,5 +1,3 @@
-// src/routes/team_routes.ts
-
 import { Elysia, t } from "elysia";
 
 import {

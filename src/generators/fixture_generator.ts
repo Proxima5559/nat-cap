@@ -56,10 +56,6 @@ export class FixtureGenerator {
   ): Fixture[] {
     if (
       groupCount <= 0 ||
-      // Every group needs at least 2 teams to produce a single fixture —
-      // `< groupCount` alone would silently allow 1-team groups that
-      // generateRoundRobin() then quietly drops (it returns [] below 2
-      // teams), losing those teams from the tournament without any error.
       teamIds.length < groupCount * 2
     ) {
       return [];

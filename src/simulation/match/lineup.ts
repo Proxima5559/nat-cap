@@ -1,8 +1,3 @@
-// src/simulation/match/lineup.ts
-// Turns a full squad into a starting XI + bench, respecting position needs
-// instead of just taking the 11 highest-ability players (which would
-// happily field zero defenders if the best players are all forwards).
-
 import type { StrengthPlayer } from "./team-strength";
 
 type PositionGroup = "GK" | "DEF" | "MID" | "FWD";
@@ -55,9 +50,6 @@ export function selectLineup(
     }
   });
 
-  // If a squad is thin in some position (e.g. no natural GK), top the XI
-  // back up to 11 with whoever's left, best ability first, rather than
-  // playing a match short-handed.
   const targetSize = Math.min(
     squad.length,
     formation.GK + formation.DEF + formation.MID + formation.FWD,

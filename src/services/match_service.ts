@@ -1,5 +1,3 @@
-// src/services/match.service.ts
-
 import { asc, eq, or } from "drizzle-orm";
 
 import { db } from "../config/database";

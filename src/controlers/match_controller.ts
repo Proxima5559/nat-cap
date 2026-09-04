@@ -1,5 +1,3 @@
-// src/controlers/match_controller.ts
-
 import type { Context } from "elysia";
 
 import { matchService } from "../services";

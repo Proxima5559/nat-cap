@@ -1,5 +1,3 @@
-// src/services/statistics.service.ts
-
 import { and, asc, eq } from "drizzle-orm";
 
 import { db } from "../config/database";
